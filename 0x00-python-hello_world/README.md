@@ -14,3 +14,4 @@ File|Task Description
 7-edges.py | 7. Copy - Cut - Paste:Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
 8-concat_edges.py | 8. Create a new sentence: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py) to print object-oriented programming with Python, followed by a new line.
 9-easter_egg.py | 9. Easter Egg: Python script that prints The Zen of Python, by TimPeters, followed by a new line.
+10-check_cycle.c | 10. Linked list cycle: function in C that checks if a singly linked list has a cycle in it.
