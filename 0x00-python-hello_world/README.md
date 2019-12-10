@@ -11,3 +11,4 @@ File|Task Description
 4-print_float.py | 4. Print float: Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
 5-print_string.py | 5. Print string: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
 6-concat.py | 6. Play with strings: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print Welcome to Holberton School!
+7-edges.py | 7. Copy - Cut - Paste:Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
