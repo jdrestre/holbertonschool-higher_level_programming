@@ -10,3 +10,4 @@ File|Task Description
 3-print_number.py | - Task 3. Print integer: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable number, followed by Battery street, followed by a new line.
 4-print_float.py | 4. Print float: Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
 5-print_string.py | 5. Print string: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
+6-concat.py | 6. Play with strings: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print Welcome to Holberton School!
