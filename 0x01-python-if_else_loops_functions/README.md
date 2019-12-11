@@ -14,3 +14,4 @@ File Name|Task Description
 7-islower.py | 7. islower: Write a function that checks for lowercase character.
 8-uppercase.py | 8. To uppercase: Write a function that prints a string in uppercase followed by a new line
 9-print_last_digit.py | 9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important: Write a function that prints the last digit of a number.
+10-add.py | 10. a + b: Write a function that adds two integers and returns the result.
