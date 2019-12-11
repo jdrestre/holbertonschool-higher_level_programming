@@ -18,3 +18,4 @@ File Name|Task Name|Task Description
 11-pow.py | 11. a ^ b | Write a function that computes a to the power of b and return the value.
 12-fizzbuzz.py | 12. Fizz Buzz | Write a function that prints the numbers from 1 to 100 separated by a space.
 13-insert_number.c, lists.h | 13. Insert in sorted linked list | Write a function in C that inserts a number into a sorted singly linked list.
+102-magic_calculation.py | 16. ByteCode -> Python #2 | Write the Python function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode
