@@ -17,3 +17,4 @@ File Name|Task Name|Task Description
 10-add.py | 10. a + b | Write a function that adds two integers and returns the result.
 11-pow.py | 11. a ^ b | Write a function that computes a to the power of b and return the value.
 12-fizzbuzz.py | 12. Fizz Buzz | Write a function that prints the numbers from 1 to 100 separated by a space.
+13-insert_number.c, lists.h | 13. Insert in sorted linked list | Write a function in C that inserts a number into a sorted singly linked list.
