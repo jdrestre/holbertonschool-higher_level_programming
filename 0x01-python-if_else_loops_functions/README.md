@@ -13,3 +13,4 @@ File Name|Task Description
 6-print_comb3.py | 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need: Write a program that prints all possible different combinations of two digits
 7-islower.py | 7. islower: Write a function that checks for lowercase character.
 8-uppercase.py | 8. To uppercase: Write a function that prints a string in uppercase followed by a new line
+9-print_last_digit.py | 9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important: Write a function that prints the last digit of a number.
