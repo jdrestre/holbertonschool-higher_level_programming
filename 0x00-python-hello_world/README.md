@@ -2,8 +2,8 @@
 
 ## Task Project
 ---
-File|Task Description
----|---
+File|Task Name|Task Description
+---|---|---
 0-run | - Task 0. Run Python file: Shell script that runs a Python script.
 1-run_inline | - Task 1. Run inline: Shell script that runs Python code.
 2-print.py | - Task 2. Hello, print: Python script that prints exactly "\"Programming is like building a multilingual puzzle"
@@ -15,3 +15,4 @@ File|Task Description
 8-concat_edges.py | 8. Create a new sentence: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py) to print object-oriented programming with Python, followed by a new line.
 9-easter_egg.py | 9. Easter Egg: Python script that prints The Zen of Python, by TimPeters, followed by a new line.
 10-check_cycle.c | 10. Linked list cycle: function in C that checks if a singly linked list has a cycle in it.
+102-magic_calculation.py | 13. ByteCode -> Python #1 | Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
