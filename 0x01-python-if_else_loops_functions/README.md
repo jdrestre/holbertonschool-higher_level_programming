@@ -2,7 +2,7 @@
 
 ## Task Project
 ---
-File|Task Description
+File Name|Task Description
 ---|---
 0-positive_or_negative.py | 0. Positive anything is better than negative nothing: This program will assign a random signed number to the variable number each time it is executed
 1-last_digit.py | 1. The last digit: This program will assign a random signed number to the variable number each time it is executed
@@ -12,3 +12,4 @@ File|Task Description
 5-print_comb2.py | 5. 00...99: Write a program that prints numbers from 0 to 99.
 6-print_comb3.py | 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need: Write a program that prints all possible different combinations of two digits
 7-islower.py | 7. islower: Write a function that checks for lowercase character.
+8-uppercase.py | 8. To uppercase: Write a function that prints a string in uppercase followed by a new line.
