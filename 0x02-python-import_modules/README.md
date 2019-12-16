@@ -12,4 +12,11 @@ File Name|Task Name|Task Description
 5-variable_load.py | 5. Everything can be imported | Write a program that imports the variable a from the file variable_load_5.py and prints its value.
 100-my_calculator.py | 6. Build my own calculator! | Write a program that imports all functions from the file calculator_1.py and handles basics operations.
 101-easy_print.py | 7. Easy print | Write a program that prints #pythoniscool, followed by a new line, in the standard output
-102-magic_calculation.py | 8. ByteCode -> Python #3 | Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+# BAD 2Checks 102-magic_calculation.py | 8. ByteCode -> Python #3 | Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+103-fast_alphabet.py | 9. Fast alphabet | Write a program that prints the alphabet in uppercase, followed by a new line. Your program should be maximum 3 lines long
+You are not allowed to use:
+any loops
+any conditional statements
+str.join()
+any string literal
+any system calls
