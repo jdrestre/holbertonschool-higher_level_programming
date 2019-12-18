@@ -25,4 +25,6 @@ File Name|Task Name|Task Description
 2-replace_in_list.py | 2. Replace element | Write a function that replaces an element of a list at a specific position (like in C).
 3-print_reversed_list_integer.py | 3. Print a list of integers... in reverse! | Write a function that prints all integers of a list, in reverse order.
 4-new_in_list.py | 4. Replace in a copy | Write a function that replaces an element in a list at a specific position without modifying the original list (like in C).
-5-no_c.py | 5. Can you C me now? | 
+5-no_c.py | 5. Can you C me now? |
+6 Pending | Pending | Pending
+7-add_tuple.py | 7. Tuples addition | Write a function that adds 2 tuples.
