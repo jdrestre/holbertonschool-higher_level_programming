@@ -28,3 +28,4 @@ File Name|Task Name|Task Description
 5-no_c.py | 5. Can you C me now? |
 6-print_matrix_integer.py | 6. Lists of lists = Matrix | Write a function that prints a matrix of integers.
 7-add_tuple.py | 7. Tuples addition | Write a function that adds 2 tuples.
+8-multiple_returns.py | 8. More returns! | Write a function that returns a tuple with the length of a string and its first character.
