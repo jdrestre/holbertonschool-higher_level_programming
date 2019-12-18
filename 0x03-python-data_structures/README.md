@@ -1,7 +1,7 @@
 # 0x03. Python - Data Structures: Lists, Tuples
 
 ## Description
-- This is a repository where Python language topics are studied: Data Structures: Lists, Tuples
+- Repository to study the following Python topics: Data Structures: Lists, Tuples
 ---
 At the end of this project I could explain to anyone:
 - What are lists and how to use them
@@ -23,3 +23,4 @@ File Name|Task Name|Task Description
 0-print_list_integer.py | 0. Print a list of integers | Write a function that prints all integers of a list.
 1-element_at.py | 1. Secure access to an element in a list | Write a function that retrieves an element from a list like in C.
 2-replace_in_list.py | 2. Replace element | Write a function that replaces an element of a list at a specific position (like in C).
+3-print_reversed_list_integer.py | 3. Print a list of integers... in reverse! | Write a function that prints all integers of a list, in reverse order.
