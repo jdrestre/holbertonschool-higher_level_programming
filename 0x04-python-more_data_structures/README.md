@@ -23,3 +23,4 @@ File Name|Task Name|Task Description
 1-search_replace.py | 1. Search and replace | Write a function that replaces all occurrences of an element by another in a new list.
 2-uniq_add.py | 2. Unique addition | Write a function that adds all unique integers in a list (only once for each integer).
 3-common_elements.py | 3. Present in both | Write a function that returns a set of common elements in two sets.
+4-only_diff_elements.py | 4. Only differents | Write a function that returns a set of all elements present in only one set.
