@@ -5,3 +5,7 @@ def square_matrix_simple(matrix=[]):
         new_row = list([x**2 for x in row])
         new_matrix.append(new_row)
     return(new_matrix)
+
+'''
+return[[n**2 for n in row] for row in matrix]
+'''
