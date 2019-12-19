@@ -20,3 +20,4 @@ At the end of this project I could explain to anyone:
 File Name|Task Name|Task Description
 ---|---|---
 0-square_matrix_simple.py | 0. Squared simple | Write a function that computes the square value of all integers of a matrix.
+1-search_replace.py | 1. Search and replace | Write a function that replaces all occurrences of an element by another in a new list.
