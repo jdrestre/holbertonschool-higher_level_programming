@@ -32,3 +32,4 @@ File Name|Task Name|Task Description
 10-best_score.py | 10. Best score | Write a function that returns a key with the biggest integer value.
 11-mutiply_list_map.py | 11. Multiply by using map | Write a function that returns a list with all values multiplied by a number without using any loops.
 12-roman_to_int.py | 12. Roman to Integer | Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
+101-square_matrix_map.py | 14. Squared by using map | Write a function that computes the square value of all integers of a matrix using map
