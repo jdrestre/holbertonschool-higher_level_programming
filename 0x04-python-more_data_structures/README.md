@@ -26,3 +26,4 @@ File Name|Task Name|Task Description
 4-only_diff_elements.py | 4. Only differents | Write a function that returns a set of all elements present in only one set.
 5-number_keys.py | 5. Number of keys | Write a function that returns the number of keys in a dictionary.
 6-print_sorted_dictionary.py | 6. Print sorted dictionary | Write a function that prints a dictionary by ordered keys.
+7-update_dictionary.py | 7. Update dictionary | Write a function that replaces or adds key/value in a dictionary.
