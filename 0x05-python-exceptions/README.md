@@ -3,7 +3,7 @@
 ![N|Solid](https://www.holbertonschool.com/holberton-logo.png)
 
 ## Description
-- Repository to study the following Python topics: Data Structures: Set, Dictionary
+- Repository to study the following Python topics: Exceptions
 ---
 At the end of this project I could explain to anyone:
 - Whats the difference between errors and exceptions
@@ -22,3 +22,4 @@ File Name|Task Name|Task Description
 1-safe_print_integer.py|1. Safe printing of an integers list|Write a function that prints an integer with "{:d}".format().
 2-safe_print_list_integers.py|2. Print and count integers|Write a function that prints the first x elements of a list and only integers.
 3-safe_print_division.py|3. Integers division with debug|Write a function that divides 2 integers and prints the result.
+4-list_division.py|4. Divide a list|Write a function that divides element by element 2 lists.
