@@ -17,3 +17,4 @@ At the end of this project I could explain to anyone:
 File Name|Task Name|Task Description
 ---|---|---
 0-safe_print_list.py|0. Safe list printing|Write a function that prints x elements of a list.
+1-safe_print_integer.py|1. Safe printing of an integers list|Write a function that prints an integer with "{:d}".format().
