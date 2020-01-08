@@ -1,5 +1,7 @@
 # 0x05. Python - Exceptions
 
+![N|Solid](https://www.holbertonschool.com/holberton-logo.png)
+
 ## Description
 - Repository to study the following Python topics: Data Structures: Set, Dictionary
 ---
