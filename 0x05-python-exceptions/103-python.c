@@ -42,3 +42,41 @@ void print_python_list(PyObject *p)
 			print_python_float(list->ob_item[i]);
 	}
 }
+
+
+/**
+ * print_python_bytes - Print basic info Python byte objects
+ * @p: A PyObjects byte object
+ */
+void print_python_bytes(PyObject *p)
+{
+	Py_ssize_t size, i;
+	PyBytesObject *bytes = (PyBytesObject *)p;
+
+	fflush(stdout);
+
+	printf("[.] Bytes Object Info\n");
+	if (strcmp(p->ob_type->tp_name, "bytes") != 0)
+	{
+		printf("  [ERROR] Invalid Bytes Objects\n");
+		return;
+	}
+
+	printf("  size: %ld\n", ((PyVarObject *)p)->ob_size);
+	printf("  trying string: %s\n", bytes->ob_sval);
+
+	if (((PyVarObject *)p)->ob_size >= 10)
+		size = 10;
+	else
+		size = ((PyVarObject *)p)->ob_size + 1;
+
+	printf("  first %ld bytes: ", size);
+	for (i = 0; i < size; i++)
+	{
+		printf("%02hhx", bytes->ob_sval[i]);
+		if (i == (size - 1))
+			printf("\n");
+		else
+			printf(" ");
+	}
+}
