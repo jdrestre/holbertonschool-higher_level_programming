@@ -25,3 +25,4 @@ File Name|Task Name|Task Description
 4-list_division.py|4. Divide a list|Write a function that divides element by element 2 lists.
 5-raise_exception.py|5. Raise exception|Write a function that raises a type exception.
 6-raise_exception_msg.py|6. Raise a message|Write a function that raises a name exception with a message.
+100-safe_print_integer_err.py|7. Safe integer print with error message|Write a function that prints an integer.
