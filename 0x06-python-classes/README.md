@@ -38,7 +38,7 @@ File Name|Task Name|Task Description
 4-square.py|4. Access and update private attribute|Write a class Square that defines a square by: (based on 3-square.py)
 5-square.py|5. Printing a square|Write a class Square that defines a square by: (based on 4-square.py)
 6-square.py|6. Coordinates of a square|Write a class Square that defines a square by: (based on 5-square.py)
-
+103-magic_class.py|10. ByteCode -> Python #5|Write the Python class MagicClass that does exactly the same as the following Python bytecode
 
 ---
 ## Author
