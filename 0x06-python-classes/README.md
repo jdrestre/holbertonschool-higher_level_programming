@@ -36,4 +36,4 @@ File Name|Task Name|Task Description
 ---
 ## Author
 
-Juan David Restrepo Z. Twitter: [@jdrestre](https://twitter.com/jdrestre)
+Juan David Restrepo Z. [@jdrestre](https://twitter.com/jdrestre)
