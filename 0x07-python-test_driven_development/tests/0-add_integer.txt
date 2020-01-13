@@ -42,6 +42,41 @@ case #4:
      Traceback (most recent call last):
      TypeError: a must be an integer
 
+case #5:
+     >>> add_integer(None)
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+case #6:
+     >>> add_integer([1, 2, 3], [4, 5, 6])
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+case #7:
+     >>> add_integer(9, [4, 5, 6])
+     Traceback (most recent call last):
+     TypeError: b must be an integer
+
+case #8:
+     >>> add_integer(True)
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+case #9:
+     >>> add_integer(9, True)
+     Traceback (most recent call last):
+     TypeError: b must be an integer
+
+case #10:
+     >>> add_integer((1, 2, 3), (4, 5, 6))
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+case #11:
+     >>> add_integer(9, (4, 5, 6))
+     Traceback (most recent call last):
+     TypeError: b must be an integer
+
 
 Section // SyntaxError
 =========================
@@ -61,11 +96,6 @@ case #2:
      Traceback (most recent call last):
      SyntaxError: invalid syntax
 
-case #3:
-     >>> add_integer(None)
-     Traceback (most recent call last):
-     TypeError: a must be an integer
-
 
 Section // Expected adding
 ===========================
@@ -73,6 +103,36 @@ Section // Expected adding
 case #0:
      >>> add_integer(.0, .0)
      0
+
+case #1:
+     >>> add_integer(7)
+     105
+
+case #2:
+     >>> add_integer(10.0, 15.0)
+     25
+
+case #3:
+     >>> add_integer(7, 20.0)
+     27
+
+case #4:
+     >>> add_integer(-7.5, -5)
+     -12
+
+case #5:
+     >>> add_integer(1/0, -1)
+     Traceback (most recent call last):
+     ZeroDivisionError: division by zero
+
+case #6:
+     >>> add_integer(0/0.00001, -1)
+     -1
+
+case #7
+     >>> add_integer(0 , 7)
+     7
+
 
 Section // OverflowError
 ===========================
