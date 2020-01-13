@@ -1,0 +1,88 @@
+Test Task 0
+
+     >>> add_integer = __import__('0-add_integer').add_integer
+
+
+Section // NameError
+=========================
+
+case #0:
+     >>> add_integer(a, 7)
+     Traceback (most recent call last):
+     NameError: name 'a' is not defined
+
+case #1:
+     >>> add_integer(7, b)
+     Traceback (most recent call last):
+     NameError: name 'b' is not defined
+
+
+Section // TypeError
+=========================
+
+case #0: A test without parameters (empty)
+     >>> add_integer()
+     Traceback (most recent call last):
+     TypeError: add_integer() missing 1 required positional argument: 'a'
+
+
+case #1:
+     >>> add_integer('hello')
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+case #2:
+     >>> add_integer('hello', )
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+
+case #4:
+     >>> add_integer('hello', 'world')
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+
+Section // SyntaxError
+=========================
+
+case #0:
+     >>> add_integer(*.:, 7)
+     Traceback (most recent call last):
+     SyntaxError: invalid syntax
+
+case #1:
+     >>> add_integer(7, *.:)
+     Traceback (most recent call last):
+     SyntaxError: invalid syntax
+
+case #2:
+     >>> add_integer(., .)
+     Traceback (most recent call last):
+     SyntaxError: invalid syntax
+
+case #3:
+     >>> add_integer(None)
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+
+Section // Expected adding
+===========================
+
+case #0:
+     >>> add_integer(.0, .0)
+     0
+
+Section // OverflowError
+===========================
+
+case #0:
+     >>> add_integer(7, 1e700)
+     Traceback (most recent call last):
+     OverflowError: cannot convert float infinity to integer
+
+case #1:
+     >>> add_integer(777e777, -1)
+     Traceback (most recent call last):
+     OverflowError: cannot convert float infinity to integer
