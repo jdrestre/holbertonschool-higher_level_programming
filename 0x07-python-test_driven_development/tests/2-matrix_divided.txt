@@ -1,0 +1,81 @@
+Test Task 1
+
+     >>> matrix_divided = __import__('2-matrix_divided').matrix_divided
+
+
+Section // TypeError kind of raise
+===================================
+
+case #0: empty
+     >>> matrix_divided()
+     Traceback (most recent call last):
+     TypeError: matrix_divided() missing 2 required positional arguments: 'matrix' and 'div'
+
+case #1:
+     >>> matrix = []
+     >>> type(matrix_divided(matrix, 3))
+     Traceback (most recent call last):
+     TypeError: matrix must be a matrix (list of lists) of integers/floats
+
+case #2:
+     >>> matrix = [[1, 2, 3], [4, 5, 6], 'hello']
+     >>> matrix_divided('matrix', 2)
+     Traceback (most recent call last):
+     TypeError: matrix must be a matrix (list of lists) of integers/floats
+
+case #3:
+     >>> matrix = [
+     ...  [1, 2, 3],
+     ...  [2, 3, 4, 5]
+     ... ]
+     >>> matrix_divided(matrix, 2)
+     Traceback (most recent call last):
+     TypeError: Each row of the matrix must have the same size
+
+case #4:
+     >>> matrix_divided([[1, 2, "Hola"], [4, 0.5, 6]], 3)
+     Traceback (most recent call last):
+     TypeError: matrix must be a matrix (list of lists) of integers/floats
+
+case #5:
+     >>> matrix_divided(matrix, hi)
+     Traceback (most recent call last):
+     NameError: name 'hi' is not defined
+
+case #6:
+     >>> matrix = 'Holberton'
+     >>> matrix_divided(matrix, 3)
+     Traceback (most recent call last):
+     TypeError: matrix must be a matrix (list of lists) of integers/floats
+
+case #7:
+     >>> matrix = [['1', '2', '3'], ['4', '5', '6']]
+     >>> matrix_divided(matrix, 3)
+     Traceback (most recent call last):
+     TypeError: matrix must be a matrix (list of lists) of integers/floats
+
+
+Section // Result Correct Matrix
+=================================
+
+case #0:
+     >>> matrix = [[1, 2, 3],[4, 5, 6]]
+     >>> matrix_divided(matrix, 3)
+     [[0.33, 0.67, 1.0], [1.33, 1.67, 2.0]]
+
+
+case #1:
+     >>> matrix = [[1, 2, 3], [4, 5, 6]]
+     >>> type(matrix_divided(matrix, 3))
+     <class 'list'>
+
+case #2:
+     >>> matrix = [[1e400, 1e500, 1e600],[1e900, 1e800, 1e700]]
+     >>> matrix_divided(matrix, 3)
+     [[inf, inf, inf], [inf, inf, inf]]
+
+case #3:
+     >>> matrix = [[10.0, 65, 37.0],[40, 15.0, 66]]
+     >>> matrix_divided(matrix, 0)
+     Traceback (most recent call last):
+     ZeroDivisionError: division by zero
