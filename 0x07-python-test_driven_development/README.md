@@ -21,6 +21,7 @@ File Name|Task Name|Task Description
 test/|folder of test files for task|
 0-add_integer.py, tests/0-add_integer.txt|0. Integers addition|Write a function that adds 2 integers.
 2-matrix_divided.py, tests/2-matrix_divided.txt|1. Divide a matrix|Write a function that divides all elements of a matrix.
+3-say_my_name.py, tests/3-say_my_name.txt|2. Say my name|Write a function that prints My name is <first name> <last name>
 
 
 ---
