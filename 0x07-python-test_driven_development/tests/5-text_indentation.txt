@@ -1,0 +1,73 @@
+Test Task 4
+
+text_indentation = __import__('5-text_indentation').text_indentation
+
+
+Section //
+====================
+
+case #0:
+     >>> text_indentation()
+     Traceback (most recent call last):
+     TypeError: text_indentation() missing 1 required positional argument: 'text'
+
+case #1:
+     >>> text_indentation("hola: world? and. ")
+     hola:
+     <BLANKLINE>
+     world?
+     <BLANKLINE>
+     and.
+     <BLANKLINE>
+
+case #2:
+     >>> text_indentation = __import__('5-text_indentation').text_indentation
+     >>> text_indentation("Hello?")
+     Hello?
+     <BLANKLINE>
+
+case #3: No spaces are printed at the beginning of a line.
+     >>> text_indentation("   Hi there.")
+     Hi there.
+     <BLANKLINE>
+
+case #4:
+    >>> text_indentation("          ")
+
+case #5: Similarly, no spaces are printed at the end of each printed line.
+     >>> text_indentation("Hello.   ")
+     Hello.
+     <BLANKLINE>
+
+case #6
+     >>> text_indentation("    Woah now.    This is that.   ")
+     Woah now.
+     <BLANKLINE>
+     This is that.
+     <BLANKLINE>
+
+case #7:
+     >>> text_indentation("No ending, whit one coma")
+     No ending, whit one coma
+
+case #8: New lines within a string are printed as normal.
+     >>> text_indentation("Let's print a new-line! Here goes:\nPrinted.")
+     Let's print a new-line! Here goes:
+     <BLANKLINE>
+     <BLANKLINE>
+     Printed.
+     <BLANKLINE>
+
+case #9:
+     >>> text_indentation("\n\n\n just printed three new lines.")
+     <BLANKLINE>
+     <BLANKLINE>
+     <BLANKLINE>
+     just printed three new lines.
+     <BLANKLINE>
+
+case #10:
+     >>> text_indentation("A float \n new line.")
+     A float 
+     new line.
+     <BLANKLINE>
