@@ -62,15 +62,9 @@ case #7:
      Traceback (most recent call last):
      TypeError: b must be an integer
 
-case #8:
-     >>> add_integer(True)
-     Traceback (most recent call last):
-     TypeError: a must be an integer
-
 case #9:
      >>> add_integer(9, True)
-     Traceback (most recent call last):
-     TypeError: b must be an integer
+     10
 
 case #10:
      >>> add_integer((1, 2, 3), (4, 5, 6))
