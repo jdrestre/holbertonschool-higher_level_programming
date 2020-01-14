@@ -159,6 +159,6 @@ case #2:
      TypeError: a must be an integer
 
 case #3:
-     >>> add_integer('yes', 7)
+     >>> add_integer(7, 'yes')
      Traceback (most recent call last):
      TypeError: a must be an integer
