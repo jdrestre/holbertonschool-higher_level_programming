@@ -1,0 +1,67 @@
+Test Task 3
+
+     >>> print_square = __import__('4-print_square').print_square
+
+
+Section // TypeError
+=========================
+
+case #0:
+     >>> print_square()
+     Traceback (most recent call last):
+     TypeError: print_square() missing 1 required positional argument: 'size'
+
+case #1:
+     >>> print_square("p")
+     Traceback (most recent call last):
+     TypeError: size must be an integer
+
+case #2:
+     >>> print_square("7")
+     Traceback (most recent call last):
+     TypeError: size must be an integer
+
+case #3:
+     >>> print_square(2.5)
+     Traceback (most recent call last):
+     TypeError: size must be an integer
+
+case #4:
+     >>> print_square(None)
+     Traceback (most recent call last):
+     TypeError: size must be an integer
+
+case #5: string
+     >>> print_square('world')
+     Traceback (most recent call last):
+     TypeError: size must be an integer
+
+
+case #6: More parameters
+     >>> print_square(3, 9)
+     Traceback (most recent call last):
+     TypeError: print_square() takes 1 positional argument but 2 were given
+
+case #7: Zero
+     >>> print_square(0)
+
+case #8: 'size' is negative float:
+     >>> print_square(-0.5)
+     Traceback (most recent call last):
+     TypeError: size must be an integer
+
+
+Section // ValueError
+=========================
+
+case #0:
+     >>> print_square(-1)
+     Traceback (most recent call last):
+     ValueError: size must be >= 0
+
+Section // Correct Value
+=========================
+case #0:
+     >>> print_square(2)
+     ##
+     ##
