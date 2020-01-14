@@ -83,6 +83,16 @@ case #11:
      Traceback (most recent call last):
      TypeError: b must be an integer
 
+case #12:
+     >>> add_integer('yes', 7)
+     Traceback (most recent call last):
+     TypeError: a must be an integer
+
+case #13:
+     >>> add_integer(7, 'yes')
+     Traceback (most recent call last):
+     TypeError: b must be an integer
+
 
 Section // SyntaxError
 =========================
@@ -152,13 +162,3 @@ case #1:
      >>> add_integer(777e777, -1)
      Traceback (most recent call last):
      OverflowError: cannot convert float infinity to integer
-
-case #2:
-     >>> add_integer('yes', 7)
-     Traceback (most recent call last):
-     TypeError: a must be an integer
-
-case #3:
-     >>> add_integer(7, 'yes')
-     Traceback (most recent call last):
-     TypeError: a must be an integer
