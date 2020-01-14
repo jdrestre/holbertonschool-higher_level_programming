@@ -22,7 +22,6 @@ case #1:
      Traceback (most recent call last):
      NameError: name 'b' is not defined
 
-
 Section // TypeError
 =========================
 
@@ -162,3 +161,15 @@ case #1:
      >>> add_integer(777e777, -1)
      Traceback (most recent call last):
      OverflowError: cannot convert float infinity to integer
+
+case
+	>>> add_integer(-1, -1)
+	-2
+
+case
+	>>> add_integer(0, 0)
+	0
+
+case
+	>>> add_integer(1, -1)
+	0
