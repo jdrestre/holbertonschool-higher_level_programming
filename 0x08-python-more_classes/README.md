@@ -37,6 +37,7 @@
 File Name|Task Name|Task Description
 ---|---|---
 0-rectangle.py|0. Simple rectangle|Write an empty class Rectangle that defines a rectangle:
+1-rectangle.py|1. Real definition of a rectangle|Write a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)
 
 ---
 ## Author
