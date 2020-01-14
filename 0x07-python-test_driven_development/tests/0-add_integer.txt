@@ -1,3 +1,9 @@
+``add_integer`` function
+========================
+
+Using ``add_integer``
+---------------------
+
 Test Task 0
 
      >>> add_integer = __import__('0-add_integer').add_integer
