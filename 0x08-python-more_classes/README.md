@@ -41,6 +41,7 @@ File Name|Task Name|Task Description
 2-rectangle.py|2. Area and Perimeter|Write a class Rectangle that defines a rectangle by: (based on 1-rectangle.py) Public instance method
 3-rectangle.py|3. String representation|Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py) Print rectangle with character '#'
 4-rectangle.py|4. Eval is magic|Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py) using repr() should return a string to be able to recreate a new instance by using eval()
+5-rectangle.py|5. Detect instance deletion|Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py) when an instance is deleted __del__
 
 ---
 ## Author
