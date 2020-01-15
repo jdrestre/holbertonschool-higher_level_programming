@@ -4,7 +4,7 @@
 
 
 class Rectangle:
-    """Is a Rectangle"""
+    """Task 1: Is a Rectangle"""
     def __init__(self, width=0, height=0):
         """Initializes rectangle features"""
         self.width = width
@@ -39,7 +39,7 @@ class Rectangle:
         self.__height = value
 
     def area(self):
-        """public instance method that returns rectangle area"""
+        """Task 2: public instance method that returns rectangle area"""
         return self.__width * self.__height
 
     def perimeter(self):
@@ -49,7 +49,7 @@ class Rectangle:
         return 2 * (self.__height + self.__width)
 
     def __str__(self):
-        """return printable rectangle with #"""
+        """Task 3: return printable rectangle with #"""
         if self.__width == 0 or self.__height == 0:
             return ("")
         """algorithm to print rectangle with #"""
