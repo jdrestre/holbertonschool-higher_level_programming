@@ -38,7 +38,8 @@ File Name|Task Name|Task Description
 [11-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/11-answer.txt)|11-answer.txt|is False in list. Focus in point of list
 [12-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/12-answer.txt)|12. And with a list, is it really equal|True == alias in Python
 [13-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/13-answer.txt)|13-answer.txt|True with is because used alias in list l2 = l1 
-
+[14-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/14-answer.txt)|14. List append|used .append and alias with lists
+[15-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/15-answer.txt)|15. List add|add value into the list is different 
 
 ---
 ## Author
