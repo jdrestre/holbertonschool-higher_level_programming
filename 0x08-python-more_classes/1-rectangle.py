@@ -4,7 +4,7 @@
 
 
 class Rectangle:
-    """Is a Rectangle"""
+    """Task 1: Is a Rectangle"""
     def __init__(self, width=0, height=0):
         """Initializes rectangle features"""
         self.width = width
