@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """Define rectangle Class
+Task 0
 """
 
 
-Class Rectangle:
+class Rectangle:
     """Is a Rectangle"""
     pass
