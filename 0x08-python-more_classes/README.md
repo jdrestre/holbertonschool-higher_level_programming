@@ -4,7 +4,7 @@
 ---
 
 ## Description
-- Repository to study the following Python topics: More Classes and Objects.(__init__, __str___, __repr__, __del__, __doc__)
+- Repository to study the following Python topics: More Classes and Objects.(____init____, __str___, __repr__, __del__, __doc__)
 ---
 - What is OOP
 - first-class everything
