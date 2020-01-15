@@ -60,10 +60,10 @@ class Rectangle:
         """Task 3: return printable rectangle with #"""
         if self.__width == 0 or self.__height == 0:
             return ("")
-        """algorithm to print rectangle with #"""
+        """Task 3 '#' Task 7 symbol: algorithm to print rectangle with #"""
         rect = []
         for i in range(self.__height):
-            [rect.append('#') for j in range(self.__width)]
+            [rect.append(str(self.print_symbol)) for j in range(self.__width)]
             if i != self.__height - 1:
                 rect.append("\n")
         return ("".join(rect))
