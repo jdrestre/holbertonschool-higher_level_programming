@@ -42,6 +42,8 @@ File Name|Task Name|Task Description
 3-rectangle.py|3. String representation|Write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py) Print rectangle with character '#'
 4-rectangle.py|4. Eval is magic|Write a class Rectangle that defines a rectangle by: (based on 3-rectangle.py) using repr() should return a string to be able to recreate a new instance by using eval()
 5-rectangle.py|5. Detect instance deletion|Write a class Rectangle that defines a rectangle by: (based on 4-rectangle.py) when an instance is deleted __del__
+6-rectangle.py|6. How many instances|Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py) Public class attribute and Incremented during each new instance instantiation and Decremented during each instance deletion
+
 
 ---
 ## Author
