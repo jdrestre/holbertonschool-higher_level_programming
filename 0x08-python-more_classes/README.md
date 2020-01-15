@@ -45,7 +45,7 @@ File Name|Task Name|Task Description
 6-rectangle.py|6. How many instances|Write a class Rectangle that defines a rectangle by: (based on 5-rectangle.py) Public class attribute and Incremented during each new instance instantiation and Decremented during each instance deletion
 7-rectangle.py|7. Change representation|Write a class Rectangle that defines a rectangle by: (based on 6-rectangle.py) define public class attribute with a symbol
 8-rectangle.py|8. Compare rectangles|Write a class Rectangle that defines a rectangle by: (based on 7-rectangle.py) Static method that returns the biggest rectangle based on the area
-
+[9-rectangle.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x08-python-more_classes/9-rectangle.py)|9. A square is a rectangle|Write a class Rectangle that defines a rectangle by: (based on 8-rectangle.py) Class method def square(cls, size=0): that returns a new Rectangle instance with width == height == size
 
 ---
 ## Author
