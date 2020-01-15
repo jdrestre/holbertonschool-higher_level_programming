@@ -29,6 +29,7 @@ File Name|Task Name|Task Description
 [2-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/2-answer.txt)|2. Right count |point to the same object
 [3-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/3-answer.txt)|3. Right count =|yes point to the same object
 [4-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/4-answer.txt)|4. Right count =|Yes point to the same object
+[5-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/5-answer.txt)|5. Right count =+|No point
 
 
 ---
