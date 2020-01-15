@@ -24,7 +24,9 @@
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x08-python-more_classes/0-answer.txt)|0. Who am I?|What function would you use to print the type of an object?
+[0-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/0-answer.txt)|0. Who am I?|What function would you use to print the type of an object?
+[1-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-pyth\
+  on-everything_is_object/1-answer.txt)|1. Where are you?|How do you get the variable identifier (which is the memory address in the CPython implementation)?
 
 
 ---
