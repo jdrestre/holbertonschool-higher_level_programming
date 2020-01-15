@@ -36,6 +36,8 @@ File Name|Task Name|Task Description
 [9-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/9-answer.txt)|9. Is really the same|Print True 'is'
 [10-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/10-answer.txt)|10. And with a list, is it equal|== True list [] focus in content of list
 [11-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/11-answer.txt)|11-answer.txt|is False in list. Focus in point of list
+[12-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/12-answer.txt)|12. And with a list, is it really equal|True == alias in Python
+[13-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/13-answer.txt)|13-answer.txt|True with is because used alias in list l2 = l1 
 
 
 ---
