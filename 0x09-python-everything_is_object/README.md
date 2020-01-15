@@ -4,7 +4,7 @@
 ---
 
 ## Description
-- Repository to study the following Python topics: Now that we understand that everything is an object and have a little bit of knowledge, lets pause and look a little bit closer at how Python works with different types of objects.
+Repository to study the following Python topics: Now that we understand that everything is an object and have a little bit of knowledge, lets pause and look a little bit closer at how Python works with different types of objects.
 
 - What is an object
 - What is the difference between a class and an object or instance
@@ -30,7 +30,7 @@ File Name|Task Name|Task Description
 [3-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/3-answer.txt)|3. Right count =|yes point to the same object
 [4-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/4-answer.txt)|4. Right count =|Yes point to the same object
 [5-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/5-answer.txt)|5. Right count =+|No point
-
+[6-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/6-answer.txt)|6. Is equal|Print True ==
 
 ---
 ## Author
