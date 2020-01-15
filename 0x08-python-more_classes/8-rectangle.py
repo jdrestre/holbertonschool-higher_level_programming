@@ -10,7 +10,6 @@ class Rectangle:
     """Task 7: Define Public class attribute with symbol #"""
     print_symbol = "#"
 
-
     """Task 1: Is a Rectangle"""
     def __init__(self, width=0, height=0):
         """Task 6: add Incremented during each new instance instantiation"""
