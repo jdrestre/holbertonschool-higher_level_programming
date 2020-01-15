@@ -8,7 +8,6 @@ class Rectangle:
     """Task 6: Initialize Public Class Attribute Number of Instance"""
     number_of_instances = 0
 
-
     """Task 1: Is a Rectangle"""
     def __init__(self, width=0, height=0):
         """Task 6: add Incremented during each new instance instantiation"""
