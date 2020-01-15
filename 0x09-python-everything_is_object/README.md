@@ -1,4 +1,4 @@
-0x09. Python - Everything is object
+# 0x09. Python - Everything is object
 
 ![N|Solid](https://www.holbertonschool.com/holberton-logo.png) ![N|Solid](https://intranet.hbtn.io/assets/holberton-logo-coral-27055cb2f875eb10bf3b3942e52a24581bc0667695bdc856d4f08b469b678000.png)
 ---
@@ -27,6 +27,8 @@ File Name|Task Name|Task Description
 [0-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/0-answer.txt)|0. Who am I?|What function would you use to print the type of an object?
 [1-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/1-answer.txt)|1. Where are you?|How do you get the variable identifier (which is the memory address in the CPython implementation)?
 [2-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/2-answer.txt)|2. Right count |point to the same object
+[3-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/3-answer.txt)|3. Right count =|yes point to the same object
+
 
 ---
 ## Author
