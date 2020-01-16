@@ -51,6 +51,9 @@ File Name|Task Name|Task Description
 [24-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/24-answer.txt)|24. Richard Sim's special #0|True integers a = (1)
 [25-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/25-answer.txt)|25. Richard Sim's special #1|False diffents tuples with 'is'
 [26-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/26-answer.txt)|26. Richard Sim's special #2|True tuples emptys
+[27-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/27-answer.txt)|27. Richard Sim's special #3|No, change
+[28-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/28-answer.txt)|28. Richard Sim's special #4|Yes, don't change
+
 
 
 ---
