@@ -44,6 +44,10 @@ File Name|Task Name|Task Description
 [17-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/17-answer.txt)|17. List incrementation|change content of list with .append
 [18-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/18-answer.txt)|18. List assignation|assing values after def 
 [19-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/19-answer.txt)|19. Copy a list object|returns a copy of a list.
+[20-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/20-answer.txt)|20. Tuple or not?|yes tuple
+[21-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/21-answer.txt)|21. Tuple or not?|yes tuple
+[22-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/22-answer.txt)|22. Tuple or not?|no tuple
+[23-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/23-answer.txt)|23. Tuple or not?|yes tuple
 
 
 ---
