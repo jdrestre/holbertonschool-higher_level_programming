@@ -53,7 +53,11 @@ File Name|Task Name|Task Description
 [26-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/26-answer.txt)|26. Richard Sim's special #2|True tuples emptys
 [27-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/27-answer.txt)|27. Richard Sim's special #3|No, change
 [28-answer.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/28-answer.txt)|28. Richard Sim's special #4|Yes, don't change
-
+[106-line1.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/106-line1.txt)
+[106-line2.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/106-line2.txt)
+[106-line3.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/106-line3.txt)
+[106-line4.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/106-line4.txt)
+[106-line5.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x09-python-everything_is_object/106-line5.txt)|30 o 35. Clear strings|objects and more objects
 
 
 ---
