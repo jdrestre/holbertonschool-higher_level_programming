@@ -63,51 +63,41 @@ case #0:
      >>> matrix_divided(matrix, 3)
      [[0.33, 0.67, 1.0], [1.33, 1.67, 2.0]]
 
-
 case #1:
-     >>> matrix = [[1, 2, 3], [4, 5, 6]]
-     >>> type(matrix_divided(matrix, 3))
-     <class 'list'>
-
-case #2:
-     >>> matrix = [[1e400, 1e500, 1e600],[1e900, 1e800, 1e700]]
-     >>> matrix_divided(matrix, 3)
-     [[inf, inf, inf], [inf, inf, inf]]
-
-case #3:
-     >>> matrix = [[10.0, 65, 37.0],[40, 15.0, 66]]
-     >>> matrix_divided(matrix, 0)
-     Traceback (most recent call last):
-     ZeroDivisionError: division by zero
-
-case
-     >>> matrix_divided(matrix, 3)
-     [[3.33, 21.67, 12.33], [13.33, 5.0, 22.0]]
-
-case
+     >>> matrix = [[3, 8], [12, 11]]
      >>> matrix_divided(matrix, -3)
-     [[-3.33, -21.67, -12.33], [-13.33, -5.0, -22.0]]
+     [[-1.0, -2.67], [-4.0, -3.67]]
 
-case
+case #6:
      >>> matrix = [[3, 9], [12, 15]]
      >>> matrix_divided(matrix, 0)
      Traceback (most recent call last):
      ZeroDivisionError: division by zero
 
-case
+case #7:
      >>> matrix = [[3, 9], [12, 15, 3]]
      >>> matrix_divided(matrix, 2)
      Traceback (most recent call last):
      TypeError: Each row of the matrix must have the same size
 
-case
+case #8:
      >>> matrix = [[3, "9"], [12, 3]]
      >>> matrix_divided(matrix, 2)
      Traceback (most recent call last):
      TypeError: matrix must be a matrix (list of lists) of integers/floats
 
-case
+case #9:
      >>> matrix = [[3, 9], [12, 3]]
      >>> matrix_divided(matrix, "2")
      Traceback (most recent call last):
      TypeError: div must be a number
+
+case #10:
+     >>> matrix = [[3, 9], [12, 3]]
+     >>> matrix_divided(matrix, 3.5)
+     [[0.86, 2.57], [3.43, 0.86]]
+
+case #2:
+     >>> matrix = [[3]]
+     >>> matrix_divided(matrix, 3)
+     [[1.0]]
