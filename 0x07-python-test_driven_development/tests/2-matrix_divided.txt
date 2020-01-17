@@ -34,7 +34,7 @@ case #3:
      >>> matrix = [[3, 9], [12, 3]]
      >>> matrix_divided(matrix, 0.0)
      Traceback (most recent call last):
-     ZeroDivisionError: division by zero
+     ZeroDivisionError: float division by zero
 
 
 Section // Result Correct Matrix
@@ -60,7 +60,7 @@ case #2:
      >>> matrix_divided(matrix, 3)
      [[1.0]]
 
-case #12:
+     case #12:
      >>> matrix = [[0, 0], [0, 0]]
      >>> matrix_divided(matrix, 0.1)
      [[0.0, 0.0], [0.0, 0.0]]
