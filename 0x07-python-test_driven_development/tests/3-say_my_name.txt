@@ -56,3 +56,8 @@ case #10
      >>> say_my_name("Juan", False)
      Traceback (most recent call last):
      TypeError: last_name must be a string
+
+case #11:
+     >>> say_my_name(17, "Juan")
+     Traceback (most recent call last):
+     TypeError: first_name must be a string
