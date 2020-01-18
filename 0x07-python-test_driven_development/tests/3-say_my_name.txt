@@ -12,33 +12,25 @@ case #0
 
 case #1:
      >>> say_my_name("")
-     My Name is  
+     My name is  
 
 case 2#:
      >>> say_my_name("Bob", "Lenon")
-     My Name is Bob Lenon
+     My name is Bob Lenon
 
 case 3#:
      >>> say_my_name("Bob")
-     My Name is Bob 
+     My name is Bob 
 
 case 4#:
      >>> say_my_name(12, "White")
      Traceback (most recent call last):
      TypeError: first_name must be a string
 
-case 5#:
-     >>> say_my_name("Bob", "Lenon")
-     My Name is Bob Lenon
-
 case 6#:
      >>> say_my_name("Bob", 12)
      Traceback (most recent call last):
      TypeError: last_name must be a string
-
-case #7:
-     >>> say_my_name("Bob")
-     My Name is Bob 
 
 case #8:
      >>> say_my_name(3)
