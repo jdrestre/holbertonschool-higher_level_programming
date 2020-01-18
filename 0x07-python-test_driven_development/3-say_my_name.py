@@ -7,7 +7,7 @@ def say_my_name(first_name, last_name=""):
         raise TypeError("first_name must be a string")
     if type(last_name) is not str:
         raise TypeError("last_name must be a string")
-    print("My Name is {:s} {:s}".format(first_name, last_name))
+    print("My Name is {} {}".format(first_name, last_name))
 
 """
     if not isinstance(first_name, str):
