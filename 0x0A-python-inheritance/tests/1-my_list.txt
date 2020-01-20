@@ -1,0 +1,96 @@
+``1-my_list`` function
+========================
+
+Using ``1-my_list``
+---------------------
+
+Test Task 0
+
+     >>> MyList = __import__('1-my_list').MyList
+
+
+Section //
+=========================
+
+case #0:
+     >>> MyList()
+     []
+
+case #1:
+     >>> issubclass(MyList, list)
+     True
+
+case #2:
+     >>> my_list = MyList()
+     >>> type(my_list)
+     <class '1-my_list.MyList'>
+
+case #3:
+     >>> my_list = MyList(None)
+     Traceback (most recent call last):
+     TypeError: 'NoneType' object is not iterable
+
+case #4:
+     >>> my_list = MyList([1, 2, 3])
+     >>> print(my_list)
+     [1, 2, 3]
+
+case #5:
+     >>> my_list = MyList([7, 2], [8, 3])
+     Traceback (most recent call last):
+     TypeError: list() takes at most 1 argument (2 given)
+
+case #6:
+     >>> my_list = MyList()
+     >>> print(my_list.print_sorted)
+     <bound method MyList.print_sorted of []>
+
+case #7:
+     >>> my_list = MyList()
+     >>> my_list.print_sorted()
+     []
+
+case #8:
+     >>> my_list = MyList([7, "Juan", "Restrepo", True])
+     >>> my_list.print_sorted()
+     Traceback (most recent call last):
+     TypeError: unorderable types: str() < int()
+
+case #8:
+     >>> my_list = MyList(True)
+     Traceback (most recent call last):
+     TypeError: 'bool' object is not iterable
+
+case #9:
+     >>> my_list = MyList((1,2), (3, 4))
+     Traceback (most recent call last):
+     TypeError: list() takes at most 1 argument (2 given)
+
+case #10:
+     >>> my_list = MyList()
+     >>> my_list.append(1)
+     >>> my_list.append(4)
+     >>> my_list.append(2)
+     >>> my_list.append(3)
+     >>> my_list.append(5)
+     >>> print(my_list)
+     [1, 4, 2, 3, 5]
+
+Print Sorted
+     >>> my_list.print_sorted()
+     [1, 2, 3, 4, 5]
+
+Print my_list
+     >>> print(my_list)
+     [1, 4, 2, 3, 5]
+
+Change value
+     >>> my_list[0] = 5
+     >>> print(my_list)
+     [5, 4, 2, 3, 5]
+
+Remove Value
+     >>> my_list.remove(5)
+     >>> print(my_list)
+     [4, 2, 3, 5]
+
