@@ -34,7 +34,7 @@ case #3:
 
 case #4:
      >>> bg.integer_validator(None)
-     Traceback (most recent call last):	
+     Traceback (most recent call last):
      TypeError: integer_validator() missing 1 required positional argument: 'value'
 
 case #5:
@@ -79,5 +79,10 @@ case #12:
 
 case #13:
      >>> bg.integer_validator("testing", {7, 8})
+     Traceback (most recent call last):
+     TypeError: testing must be an integer
+
+case #14:
+     >>> bg.integer_validator("testing", 7.7)
      Traceback (most recent call last):
      TypeError: testing must be an integer
