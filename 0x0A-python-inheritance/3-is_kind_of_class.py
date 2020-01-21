@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""compare object is an instance of a class that inherited 
+"""compare object is an instance of a class that inherited
 """
 
 
