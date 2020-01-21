@@ -86,3 +86,6 @@ case #14:
      >>> bg.integer_validator("testing", 7.7)
      Traceback (most recent call last):
      TypeError: testing must be an integer
+
+case #15:
+     >>> bg.integer_validator("testing", 7)
