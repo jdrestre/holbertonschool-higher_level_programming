@@ -33,6 +33,7 @@ File Name|Task Name|Task Description
 [6-base_geometry.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/6-base_geometry.py)|6. Improve Geometry|Write a class BaseGeometry (based on 5-base_geometry.py).raises an Exception with the message area() is not implemented
 [7-base_geometry.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/7-base_geometry.py), [7-base_geometry.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/tests/7-base_geometry.txt)|7. Integer validator|Write a class BaseGeometry (based on 6-base_geometry.py).Public instance method: def integer_validator(self, name, value): that validates value:
 [8-rectangle.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/8-rectangle.py)|8. Rectangle|Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py).Instantiation with width and height: def __init__(self, width, height):
+[9-rectangle.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/9-rectangle.py)|9. Full rectangle|Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)Print area and string personalize format
 
 
 ---
