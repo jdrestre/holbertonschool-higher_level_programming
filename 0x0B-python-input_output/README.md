@@ -23,7 +23,7 @@ Repository to study the following Python topics: Input/Output
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-read_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0-read_file.py|0. Read file|Write a function that reads a text file (UTF8) and prints it to stdout:
+[0-read_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0-read_file.py)|0. Read file|Write a function that reads a text file (UTF8) and prints it to stdout:
 
 
 ---
