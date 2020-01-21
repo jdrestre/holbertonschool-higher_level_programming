@@ -1,0 +1,83 @@
+``7-base_geometry`` function
+========================
+
+Using ``7-base_geometry``
+---------------------
+
+Test Task 0
+
+     >>> BaseGeometry = __import__('7-base_geometry').BaseGeometry
+
+
+Section //
+=========================
+
+case #0:
+     >>> bg = BaseGeometry()
+     >>> type(bg)
+     <class '7-base_geometry.BaseGeometry'>
+
+case #1:
+     >>> bg = BaseGeometry(None)
+     Traceback (most recent call last):
+     TypeError: object() takes no parameters
+
+case #2:
+     >>> bg.area()
+     Traceback (most recent call last):
+     Exception: area() is not implemented
+
+case #3:
+     >>> bg.integer_validator()
+     Traceback (most recent call last):
+     TypeError: integer_validator() missing 2 required positional arguments: 'name' and 'value'
+
+case #4:
+     >>> bg.integer_validator(None)
+     Traceback (most recent call last):	
+     TypeError: integer_validator() missing 1 required positional argument: 'value'
+
+case #5:
+     >>> bg.integer_validator("testing", 0)
+     Traceback (most recent call last):
+     ValueError: testing must be greater than 0
+
+case #6:
+     >>> bg.integer_validator("testing")
+     Traceback (most recent call last):
+     TypeError: integer_validator() missing 1 required positional argument: 'value'
+
+case #7:
+     >>> bg.integer_validator("testing", "test")
+     Traceback (most recent call last):
+     TypeError: testing must be an integer
+
+case #8:
+     >>> bg.integer_validator("testing", True)
+     Traceback (most recent call last):
+     TypeError: testing must be an integer
+
+case #9:
+     >>> bg.integer_validator("testing", None)
+     Traceback (most recent call last):
+     TypeError: testing must be an integer
+
+case #10:
+     >>> bg.integer_validator("testing", -7)
+     Traceback (most recent call last):
+     ValueError: testing must be greater than 0
+
+case #11:
+     >>> bg.integer_validator("testing", (7, 9))
+     Traceback (most recent call last):
+     TypeError: testing must be an integer
+
+case #12:
+     >>> bg.integer_validator("testing", [7])
+     Traceback (most recent call last):
+     TypeError: testing must be an integer
+
+case #13:
+     >>> bg.integer_validator("testing", {7, 8})
+     Traceback (most recent call last):
+     TypeError: testing must be an integer

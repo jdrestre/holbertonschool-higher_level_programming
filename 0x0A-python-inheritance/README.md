@@ -31,6 +31,7 @@ File Name|Task Name|Task Description
 [4-inherits_from.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/4-inherits_from.py)|4. Only sub class of|Write a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
 [5-base_geometry.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/5-base_geometry.py)|5. Geometry module|Write an empty class BaseGeometry.
 [6-base_geometry.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/6-base_geometry.py)|6. Improve Geometry|Write a class BaseGeometry (based on 5-base_geometry.py).raises an Exception with the message area() is not implemented
+[7-base_geometry.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/7-base_geometry.py), [7-base_geometry.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/tests/7-base_geometry.txt)|7. Integer validator|Write a class BaseGeometry (based on 6-base_geometry.py).Public instance method: def integer_validator(self, name, value): that validates value:
 
 
 ---
