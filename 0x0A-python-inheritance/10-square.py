@@ -10,6 +10,8 @@ class Square(Rectangle):
     """Square based to Rectangle
     """
     def __init__(self, size):
+        """initialize instance size
+        """
         super().__init__(size, size)
         self.integer_validator("size", size)
         self.__size = size
