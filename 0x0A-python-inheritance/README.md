@@ -26,6 +26,7 @@ File Name|Task Name|Task Description
 ---|---|---
 [0-lookup.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/0-lookup.py)|0. Lookup|Write a function that returns the list of available attributes and methods of an object:
 [1-my_list.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/1-my_list.py), [1-my_list.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/tests/1-my_list.txt)|1. My list|Write a class MyList that inherits from list
+[2-is_same_class.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/2-is_same_class.py)|2. Exact same object|Write a function that returns True if the object is exactly an instance of the specified class ; otherwise False.
 
 ---
 ## Author
