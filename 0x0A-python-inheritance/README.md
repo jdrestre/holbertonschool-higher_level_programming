@@ -28,6 +28,7 @@ File Name|Task Name|Task Description
 [1-my_list.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/1-my_list.py), [1-my_list.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/tests/1-my_list.txt)|1. My list|Write a class MyList that inherits from list
 [2-is_same_class.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/2-is_same_class.py)|2. Exact same object|Write a function that returns True if the object is exactly an instance of the specified class ; otherwise False.
 [3-is_kind_of_class.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/3-is_kind_of_class.py)|3. Same class or inherit from|Write a function that returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
+[4-inherits_from.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/4-inherits_from.py)|4. Only sub class of|Write a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
 
 
 ---
