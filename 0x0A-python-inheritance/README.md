@@ -36,6 +36,7 @@ File Name|Task Name|Task Description
 [9-rectangle.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/9-rectangle.py)|9. Full rectangle|Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)Print area and string personalize format
 [10-square.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/10-square.py)|10. Square #1|Write a class Square that inherits from Rectangle (9-rectangle.py):
 [11-square.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/11-square.py)|11. Square #2|Write a class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
+[100-my_int.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0A-python-inheritance/100-my_int.py)|12. My integer|Write a class MyInt that inherits from int:
 
 
 ---
