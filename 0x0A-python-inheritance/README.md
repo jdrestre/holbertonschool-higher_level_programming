@@ -1,24 +1,22 @@
-# 0x09. Python - Everything is object
+# 0x0A. Python - Inheritance
 
 ![N|Solid](https://www.holbertonschool.com/holberton-logo.png) ![N|Solid](https://intranet.hbtn.io/assets/holberton-logo-coral-27055cb2f875eb10bf3b3942e52a24581bc0667695bdc856d4f08b469b678000.png)
 ---
 
 ## Description
-Repository to study the following Python topics: Now that we understand that everything is an object and have a little bit of knowledge, lets pause and look a little bit closer at how Python works with different types of objects.
+Repository to study the following Python topics: Inheritance
 
-- What is an object
-- What is the difference between a class and an object or instance
-- What is the difference between immutable object and mutable object
-- What is a reference
-- What is an assignment
-- What is an alias
-- How to know if two variables are identical
-- How to know if two variables are linked to the same object
-- How to display the variable identifier (which is the memory address in the CPython implementation)
-- What is mutable and immutable
-- What are the built-in mutable types
-- What are the built-in immutable types
-- How does Python pass variables to functions
+- What is a superclass, baseclass or parentclass
+- What is a subclass
+- How to list all attributes and methods of a class or instance
+- When can an instance have new attributes
+- How to inherit class from another
+- How to define a class with multiple base classes
+- What is the default class every class inherit from
+- How to override a method or attribute inherited from the base class
+- Which attributes or methods are available by heritage to subclasses
+- What is the purpose of inheritance
+- What are, when and how to use isinstance, issubclass, type and super built-in functions
 
 ## Task Project
 ---
