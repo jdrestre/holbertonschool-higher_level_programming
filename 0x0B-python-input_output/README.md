@@ -29,7 +29,8 @@ File Name|Task Name|Task Description
 [3-write_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/3-write_file.py)|3. Write to a file|Write a function that writes a string to a text file (UTF8) and returns the number of characters written
 [4-append_write.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/4-append_write.py)|4. Append to a file|Write a function that appends a string at the end of a text file (UTF8) and returns the number of characters added
 [5-to_json_string.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/5-to_json_string.py)|5. To JSON string|Write a function that returns the JSON representation of an object (string)
-[6-from_json_string.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/6-from_json_string.py)|
+[6-from_json_string.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/6-from_json_string.py)|6. From JSON string to Object|Write a function that returns an object (Python data structure) represented by a JSON string
+[7-save_to_json_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/7-save_to_json_file.py|7. Save Object to a file|Write a function that writes an Object to a text file, using a JSON representation
 
 
 ---
