@@ -35,6 +35,7 @@ File Name|Task Name|Task Description
 [8-load_from_json_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/9-add_item.py)|9. Load, add, save|Write a script that adds all arguments to a Python list, and then save them to a file
 [10-class_to_json.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/10-class_to_json.py)|10. Class to JSON|Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object
 [11-student.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/11-student.py)|11. Student to JSON|Write a class Student that defines a student by
+[12-student.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/12-student.py)|12. Student to JSON with filter. add public method and attributes
 
 
 ---
