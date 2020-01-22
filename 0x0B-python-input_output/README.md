@@ -32,6 +32,7 @@ File Name|Task Name|Task Description
 [6-from_json_string.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/6-from_json_string.py)|6. From JSON string to Object|Write a function that returns an object (Python data structure) represented by a JSON string
 [7-save_to_json_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/7-save_to_json_file.py)|7. Save Object to a file|Write a function that writes an Object to a text file, using a JSON representation
 [8-load_from_json_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/8-load_from_json_file.py)|8. Create object from a JSON file|Write a function that creates an Object from a JSON file
+[8-load_from_json_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/9-add_item.py)|9. Load, add, save|Write a script that adds all arguments to a Python list, and then save them to a file
 
 
 ---
