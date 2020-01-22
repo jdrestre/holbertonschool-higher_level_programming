@@ -27,6 +27,7 @@ File Name|Task Name|Task Description
 [1-number_of_lines.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/1-number_of_lines.py)|1. Number of lines|Write a function that returns the number of lines of a text file
 [2-read_lines.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/2-read_lines.py)|2. Read n lines|Write a function that reads n lines of a text file (UTF8) and prints it to stdout:
 [3-write_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/3-write_file.py)|3. Write to a file|Write a function that writes a string to a text file (UTF8) and returns the number of characters written
+[4-append_write.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/4-append_write.py)|4. Append to a file|Write a function that appends a string at the end of a text file (UTF8) and returns the number of characters added
 
 
 ---
