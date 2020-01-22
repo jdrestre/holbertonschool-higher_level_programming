@@ -25,6 +25,8 @@ File Name|Task Name|Task Description
 ---|---|---
 [0-read_file.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0-read_file.py)|0. Read file|Write a function that reads a text file (UTF8) and prints it to stdout:
 [1-number_of_lines.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/1-number_of_lines.py)|1. Number of lines|Write a function that returns the number of lines of a text file
+[2-read_lines.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/2-read_lines.py)|2. Read n lines|Write a function that reads n lines of a text file (UTF8) and prints it to stdout:
+
 
 ---
 ## Author
