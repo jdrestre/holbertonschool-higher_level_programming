@@ -37,6 +37,7 @@ File Name|Task Name|Task Description
 [11-student.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/11-student.py)|11. Student to JSON|Write a class Student that defines a student by
 [12-student.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/12-student.py)|12. Student to JSON with filter. add public method and attributes
 [13-student.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/13-student.py)|13. Student to disk and reload|Write a class Student that defines a student by: (based on 12-student.py)Public method def reload_from_json(self, json)
+[14-pascal_triangle.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0B-python-input_output/14-pascal_triangle.py)|14. Pascal's Triangle|Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascals triangle of n...
 
 
 ---
