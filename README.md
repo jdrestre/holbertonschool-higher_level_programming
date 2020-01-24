@@ -19,4 +19,4 @@ Project Name|Description
 0x09-python-everything_is_object|
 0x0A-python-inheritance|
 0x0B-python-input_output|
-0x0C-python-almost_a_circle|In this project, you will review everything about Python: Import, Exceptions, Class, Private attribute, Getter/Setter, Class method, Static method, Inheritance, Unittest and Read/Write Files
+0x0C-python-almost_a_circle|In this project, you will review everything about Python: Import, Exceptions, Class, Private attribute, Getter/Setter, Class method, Static method, Inheritance, Unittest and Read/Write Files. You will also learn about: args and kwargs, Serialization/Deserialization and JSON
