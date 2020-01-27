@@ -19,6 +19,12 @@ In this project, you will review everything about Python:
 - Unittest
 - Read/Write file
 
+You will also learn about:
+
+- args and kwargs
+- Serialization/Deserialization
+- JSON
+
 ### General Learning Objectives
 
 - What is Unit testing and how to implement it in a large project
@@ -33,6 +39,7 @@ In this project, you will review everything about Python:
 File Name|Task Name|Task Description
 ---|---|---
 tests/|0. If it's not tested it doesn't work|Folder containing all test files. Note: All files, classes and methods must be unit tested and be PEP 8 validated.
+models/base.py, models/__init__.py|1. Base class|Write the first class Base, Create a folder named models with an empty file __init__.py, Create a file named models/base.py
 
 ---
 ## Author
