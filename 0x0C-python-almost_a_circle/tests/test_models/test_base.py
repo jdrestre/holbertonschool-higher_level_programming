@@ -41,6 +41,3 @@ class TestBaseClassCreation(unittest.TestCase):
         self.assertEqual(bo.id, 2.4)
         """End Task 1"""
 
-
-if __name__ == "_main_":
-    unittest.main()
