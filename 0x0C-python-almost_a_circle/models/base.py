@@ -3,6 +3,7 @@
 import json
 import csv
 
+
 class Base:
     """Represent base model"""
 
