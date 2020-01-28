@@ -56,6 +56,7 @@ models/square.py|14. Square instance to dictionary representation|Update the cla
 models/base.py|15. Dictionary to JSON string|Update the class Base by adding the static method def to_json_string(list_dictionaries): that returns the JSON string representation of list_dictionaries
 models/base.py|16. JSON string to file|Update the class Base by adding the class method def save_to_file(cls, list_objs): that writes the JSON string representation of list_objs to a file
 models/base.py|17. JSON string to dictionary|Update the class Base by adding the static method def from_json_string(json_string): that returns the list of the JSON string representation json_string
+models/base.py|18. Dictionary to Instance|Update the class Base by adding the class method def create(cls, **dictionary): that returns an instance with all attributes already set
 
 
 ---

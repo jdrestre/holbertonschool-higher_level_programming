@@ -41,3 +41,13 @@ class Base:
         if json_string is None or json_string == []:
             return []
         return json.loads(json_string)
+
+    @classmethod
+    def create(cls, **dictionary):
+        """Task 18: return class instance from a dictionary of attribute"""
+        if dictionary and dictionary != {}:
+            new = cls(1, 1)
+        else:
+            new = cls(1)
+        new.update(**dictionary)
+        return new
