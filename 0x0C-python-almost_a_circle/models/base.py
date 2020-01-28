@@ -46,11 +46,12 @@ class Base:
     def create(cls, **dictionary):
         """Task 18: return class instance from a dictionary of attribute"""
         if dictionary and dictionary != {}:
-            new = cls(1, 1)
-        else:
-            new = cls(1)
-        new.update(**dictionary)
-        return new
+            if cls.__name__ == "Rectangle":
+                new = cls(1, 1)
+            else:
+                new = cls(1)
+            new.update(**dictionary)
+            return new
 
     @classmethod
     def load_from_file(cls):
