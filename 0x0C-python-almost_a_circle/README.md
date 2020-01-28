@@ -46,6 +46,8 @@ models/rectangle.py|4. Area first|Update the class Rectangle by adding the publi
 models/rectangle.py|5. Display #0|Update the class Rectangle by adding the public method def display(self): that prints in stdout the Rectangle instance with the character #
 models/rectangle.py|6. __str__|Update the class Rectangle by overriding the __str__ method so that it returns [Rectangle] (<id>) <x>/<y> - <width>/<height>
 models/rectangle.py|7. Display #1|Update the class Rectangle by improving the public method def display(self) # taking care of x and y
+models/rectangle.py|8. Update #0|Update the class Rectangle by adding the public method def update(self, *args): that assigns an argument to each attribute id, width, height, x, y
+
 
 ---
 ## Author
