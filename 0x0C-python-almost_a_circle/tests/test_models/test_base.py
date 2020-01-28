@@ -23,25 +23,22 @@ class TestBaseClassCreation(unittest.TestCase):
         self.assertEqual(bo.id, 23)
         bo = Base(34)
         self.assertEqual(bo.id, 34)
-
     def test_id_negative(self):
         bo = Base(-4)
         self.assertEqual(bo.id, -4)
         bo = Base(-10)
         self.assertEqual(bo.id, -10)
-
     def test_id_none(self):
         bo = Base()
         self.assertEqual(bo.id, 1)
         bo = Base(None)
         self.assertEqual(bo.id, 2)
-
+    
     def test_id_string(self):
         bo = Base("st")
         self.assertEqual(bo.id, "st")
         bo = Base("st2")
         self.assertEqual(bo.id, "st2")
-
     def test_type(self):
         """ Test type and instance """
         b = Base()
@@ -67,7 +64,6 @@ class TestBaseClassCreation(unittest.TestCase):
         with self.assertRaises(TypeError) as e:
             Base.to_json_string([{1, 2}], [{3, 4}])
         self.assertEqual(err, str(e.exception))
-
     def test_save_to_file(self):
         """Test class method save_to_file with normal types."""
         with self.assertRaises(AttributeError) as e:
@@ -75,7 +71,6 @@ class TestBaseClassCreation(unittest.TestCase):
         self.assertEqual(
              "'Base' object has no attribute 'to_dictionary'", str(
                 e.exception))
-
     def test_load_from_file(self):
         """Test load_from_file functionality """
         if os.path.exists("Rectangle.json"):
@@ -92,7 +87,6 @@ class TestBaseClassCreation(unittest.TestCase):
         with self.assertRaises(TypeError) as e:
             list_rectangles_output = Rectangle.load_from_file("str")
         self.assertEqual(er, str(e.exception))
-
     def test_create(self):
         """ Test create functionality """
         with self.assertRaises(TypeError) as e:
@@ -107,13 +101,13 @@ class TestBaseClassCreation(unittest.TestCase):
         dictionary = re1.to_dictionary()
         json_dictionary = Base.to_json_string([dictionary])
         self.assertEqual(type(json_dictionary), str)
-
+ 
     def test_dictionary_empty(self):
         """Comment"""
         dictionary = []
         json_dictionary = Base.to_json_string(dictionary)
         self.assertEqual(json_dictionary, "[]")
-
+ 
         obj = None
         json_dictionary = Base.to_json_string(obj)
         self.assertEqual(json_dictionary, "[]")
