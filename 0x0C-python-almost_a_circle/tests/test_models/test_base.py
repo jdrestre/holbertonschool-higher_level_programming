@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Module for unittests for the Base class base.py
