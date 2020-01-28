@@ -51,6 +51,7 @@ models/rectangle.py|9. Update #1|Update the class Rectangle by updating the publ
 models/square.py|10. And now, the Square!|Write the class Square that inherits from Rectangle
 models/square.py|11. Square size|Update the class Square by adding the public getter and setter size
 models/square.py|12. Square update|Update the class Square by adding the public method def update(self, *args, **kwargs) that assigns attributes
+models/rectangle.py|13. Rectangle instance to dictionary representation|Update the class Rectangle by adding the public method def to_dictionary(self): that returns the dictionary representation of a Rectangle
 
 
 ---
