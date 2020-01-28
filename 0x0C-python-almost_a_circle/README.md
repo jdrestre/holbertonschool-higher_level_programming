@@ -42,6 +42,7 @@ tests/|0. If it's not tested it doesn't work|Folder containing all test files. N
 models/base.py, models/__init__.py|1. Base class|Write the first class Base, Create a folder named models with an empty file __init__.py, Create a file named models/base.py
 models/rectangle.py|2. First Rectangle|Write the class Rectangle that inherits from Base and add getter/setter each attribute
 models/rectangle.py|3. Validate attributes|Update the class Rectangle by adding validation of all setter methods and instantiation (id excluded): TypeError and ValueError into getter/setter
+models/rectangle.py|4. Area first|Update the class Rectangle by adding the public method def area(self)
 
 
 ---
