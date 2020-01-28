@@ -73,7 +73,7 @@ class Rectangle(Base):
         return self.width * self.height
 
     def display(self):
-        """Task 5: Diplay print Rectangle instance with #"""
+        """Task 5 and 7: Diplay print Rectangle instance with # & update x-y"""
         if self.width == 0 or self.height == 0:
             print("")
             return
@@ -85,7 +85,7 @@ class Rectangle(Base):
             print("")
 
     def __str__(self):
-        """Update the class Rectangle by overriding the __str__ method"""
+        """Task 6: Update class Rectangle by overriding the __str__ method"""
         return "[Rectangle] ({}) {}/{} - {}/{}".format(self.id,
                                                        self.x, self.y,
                                                        self.width, self.height)
