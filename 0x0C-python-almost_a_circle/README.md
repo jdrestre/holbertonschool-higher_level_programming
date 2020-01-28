@@ -54,6 +54,7 @@ models/square.py|12. Square update|Update the class Square by adding the public 
 models/rectangle.py|13. Rectangle instance to dictionary representation|Update the class Rectangle by adding the public method def to_dictionary(self): that returns the dictionary representation of a Rectangle
 models/square.py|14. Square instance to dictionary representation|Update the class Square by adding the public method def to_dictionary(self): that returns the dictionary representation of a Square
 models/base.py|15. Dictionary to JSON string|Update the class Base by adding the static method def to_json_string(list_dictionaries): that returns the JSON string representation of list_dictionaries
+models/base.py|16. JSON string to file|Update the class Base by adding the class method def save_to_file(cls, list_objs): that writes the JSON string representation of list_objs to a file
 
 
 ---
