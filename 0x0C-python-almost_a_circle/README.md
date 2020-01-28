@@ -53,6 +53,7 @@ models/square.py|11. Square size|Update the class Square by adding the public ge
 models/square.py|12. Square update|Update the class Square by adding the public method def update(self, *args, **kwargs) that assigns attributes
 models/rectangle.py|13. Rectangle instance to dictionary representation|Update the class Rectangle by adding the public method def to_dictionary(self): that returns the dictionary representation of a Rectangle
 models/square.py|14. Square instance to dictionary representation|Update the class Square by adding the public method def to_dictionary(self): that returns the dictionary representation of a Square
+models/base.py|15. Dictionary to JSON string|Update the class Base by adding the static method def to_json_string(list_dictionaries): that returns the JSON string representation of list_dictionaries
 
 
 ---
