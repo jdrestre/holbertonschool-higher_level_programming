@@ -49,6 +49,7 @@ models/rectangle.py|7. Display #1|Update the class Rectangle by improving the pu
 models/rectangle.py|8. Update #0|Update the class Rectangle by adding the public method def update(self, *args): that assigns an argument to each attribute id, width, height, x, y
 models/rectangle.py|9. Update #1|Update the class Rectangle by updating the public method def update(self, *args): by changing the prototype to update(self, *args, **kwargs) that assigns a key/value argument to attributes
 models/square.py|10. And now, the Square!|Write the class Square that inherits from Rectangle
+models/square.py|11. Square size|Update the class Square by adding the public getter and setter size
 
 
 ---
