@@ -43,6 +43,7 @@ models/base.py, models/__init__.py|1. Base class|Write the first class Base, Cre
 models/rectangle.py|2. First Rectangle|Write the class Rectangle that inherits from Base and add getter/setter each attribute
 models/rectangle.py|3. Validate attributes|Update the class Rectangle by adding validation of all setter methods and instantiation (id excluded): TypeError and ValueError into getter/setter
 models/rectangle.py|4. Area first|Update the class Rectangle by adding the public method def area(self)
+models/rectangle.py|5. Display #0|Update the class Rectangle by adding the public method def display(self): that prints in stdout the Rectangle instance with the character #
 
 
 ---
