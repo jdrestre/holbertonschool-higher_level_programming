@@ -1,5 +1,5 @@
 <h1 align="center">0x0D. SQL - Introduction</h1>
----
+
 
 ## General
 
@@ -22,6 +22,7 @@ Concepts to learn in this project about SQL - Introduction:
 File Name|Task Name|Task Description
 ---|---|---
 [0-list_databases.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/0-list_databases.sql)|0. List databases|Write a script that lists all databases of your MySQL server.
+[1-create_database_if_missing.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/1-create_database_if_missing.sql)|1. Create a database|Script that creates the database hbtn_0c_0 in your MySQL server.
 
 
 
