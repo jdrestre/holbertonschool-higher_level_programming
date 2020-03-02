@@ -26,6 +26,7 @@ File Name|Task Name|Task Description
 [2-remove_database.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/2-remove_database.sql)|2. Delete a database|Script that deletes the database hbtn_0c_0 in your MySQL server.
 [3-list_tables.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/3-list_tables.sql)|3. List tables|Script that lists all the tables of a database in your MySQL server.
 [4-first_table.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/4-first_table.sql)|4. First table|Script that creates a table called first_table in the current database in your MySQL server.
+[5-full_table.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/5-full_table.sql)|5. Full description|Script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.
 
 
 
