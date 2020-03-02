@@ -23,6 +23,7 @@ File Name|Task Name|Task Description
 ---|---|---
 [0-list_databases.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/0-list_databases.sql)|0. List databases|Write a script that lists all databases of your MySQL server.
 [1-create_database_if_missing.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/1-create_database_if_missing.sql)|1. Create a database|Script that creates the database hbtn_0c_0 in your MySQL server.
+[2-remove_database.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/2-remove_database.sql)|2. Delete a database|Script that deletes the database hbtn_0c_0 in your MySQL server.
 
 
 
@@ -31,3 +32,4 @@ File Name|Task Name|Task Description
 - Juan David Restrepo Z. [@jdrestre](https://twitter.com/jdrestre)
 
 ![N|Solid](https://www.holbertonschool.com/holberton-logo.png) ![N|Solid](https://intranet.hbtn.io/assets/holberton-logo-coral-27055cb2f875eb10bf3b3942e52a24581bc0667695bdc856d4f08b469b678000.png)
+
