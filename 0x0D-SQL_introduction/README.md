@@ -32,6 +32,7 @@ File Name|Task Name|Task Description
 [8-count_89.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/8-count_89.sql)|8. Count 89|Script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.
 [9-full_creation.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/9-full_creation.sql)|9. Full creation|Script that creates a table second_table in the database hbtn_0c_0 in your MySQL server and add multiples rows.
 [10-top_score.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/10-top_score.sql)|10. List by best|Script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.
+[11-best_score.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/11-best_score.sql)|11. Select the best|Script that lists all records with a score >= 10 in the table second_table of the database hbtn_0c_0 in your MySQL server.
 
 
 
