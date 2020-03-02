@@ -33,6 +33,7 @@ File Name|Task Name|Task Description
 [9-full_creation.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/9-full_creation.sql)|9. Full creation|Script that creates a table second_table in the database hbtn_0c_0 in your MySQL server and add multiples rows.
 [10-top_score.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/10-top_score.sql)|10. List by best|Script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.
 [11-best_score.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/11-best_score.sql)|11. Select the best|Script that lists all records with a score >= 10 in the table second_table of the database hbtn_0c_0 in your MySQL server.
+[12-no_cheating.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/12-no_cheating.sql)|12. Cheating is bad|Script that updates the score of Bob to 10 in the table second_table.
 
 
 
