@@ -25,6 +25,7 @@ File Name|Task Name|Task Description
 [1-create_database_if_missing.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/1-create_database_if_missing.sql)|1. Create a database|Script that creates the database hbtn_0c_0 in your MySQL server.
 [2-remove_database.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/2-remove_database.sql)|2. Delete a database|Script that deletes the database hbtn_0c_0 in your MySQL server.
 [3-list_tables.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/3-list_tables.sql)|3. List tables|Script that lists all the tables of a database in your MySQL server.
+[4-first_table.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/4-first_table.sql)|4. First table|Script that creates a table called first_table in the current database in your MySQL server.
 
 
 
