@@ -40,6 +40,8 @@ File Name|Task Name|Task Description
 [16-no_link.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/16-no_link.sql)|16. Say my name|Script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.
 [100-move_to_utf8.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/100-move_to_utf8.sql)|17. Go to UTF8|Script that converts hbtn_0c_0 database to UTF8 (utf8mb4, collate utf8mb4_unicode_ci) in your MySQL server.
 [101-avg_temperatures.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/101-avg_temperatures.sql)|18. Temperatures #0|Script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).
+[102-top_city.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction/102-top_city.sql)|19. Temperatures #1|Script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).
+
 
 
 
