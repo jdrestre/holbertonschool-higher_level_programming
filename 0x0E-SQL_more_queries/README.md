@@ -19,6 +19,7 @@ Concepts to learn in this project about SQL - More queries:
 File Name|Task Name|Task Description
 ---|---|---
 [0-privileges.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/0-privileges.sql)|0. My privileges! |Script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).
+[1-create_user.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/1-create_user.sql)|1. Root user|Script that creates the MySQL server user user_0d_1.
 
 
 
