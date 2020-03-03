@@ -23,6 +23,7 @@ File Name|Task Name|Task Description
 [2-create_read_user.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/2-create_read_user.sql)|2. Read user|Script that creates the database hbtn_0d_2 and the user user_0d_2.
 [3-force_name.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/3-force_name.sql)|3. Always a name|Script that creates the table force_name on your MySQL server.
 [4-never_empty.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/4-never_empty.sql)|4. ID can't be null|Script that creates the table id_not_null on your MySQL server.
+[5-unique_id.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/5-unique_id.sql)|5. Unique ID|Script that creates the table unique_id on your MySQL server.
 
 
 ## Author
