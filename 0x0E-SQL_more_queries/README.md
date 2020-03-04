@@ -26,6 +26,9 @@ File Name|Task Name|Task Description
 [5-unique_id.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/5-unique_id.sql)|5. Unique ID|Script that creates the table unique_id on your MySQL server.
 [6-states.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/6-states.sql)|6. States table|Script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.
 [7-cities.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/7-cities.sql)|7. Cities table|Script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
+[8-cities_of_california_subquery.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/8-cities_of_california_subquery.sql)|8. Cities of California|Script that lists all the cities of California that can be found in the database hbtn_0d_usa.
+[9-cities_by_state_join.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/9-cities_by_state_join.sql)|9. Cities by States|Script that lists all cities contained in the database hbtn_0d_usa.
+
 
 
 ## Author
