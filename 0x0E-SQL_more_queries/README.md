@@ -30,6 +30,8 @@ File Name|Task Name|Task Description
 [9-cities_by_state_join.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/9-cities_by_state_join.sql)|9. Cities by States|Script that lists all cities contained in the database hbtn_0d_usa.
 [10-genre_id_by_show.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/10-genre_id_by_show.sql)|10. Genre ID by show|Script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.
 [11-genre_id_all_shows.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/11-genre_id_all_shows.sql)|11. Genre ID for all shows|Write a script that lists all shows contained in the database hbtn_0d_tvshows.
+[12-no_genre.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/12-no_genre.sql)|12. No genre|Write a script that lists all shows contained in hbtn_0d_tvshows without a genre linked.
+[13-count_shows_by_genre.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/13-count_shows_by_genre.sql)|13. Number of shows by genre|Write a script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each.
 
 
 
