@@ -28,6 +28,7 @@ File Name|Task Name|Task Description
 [7-cities.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/7-cities.sql)|7. Cities table|Script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.
 [8-cities_of_california_subquery.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/8-cities_of_california_subquery.sql)|8. Cities of California|Script that lists all the cities of California that can be found in the database hbtn_0d_usa.
 [9-cities_by_state_join.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/9-cities_by_state_join.sql)|9. Cities by States|Script that lists all cities contained in the database hbtn_0d_usa.
+[10-genre_id_by_show.sql](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries/10-genre_id_by_show.sql)|10. Genre ID by show|Script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.
 
 
 
