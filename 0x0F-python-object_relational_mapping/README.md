@@ -16,7 +16,8 @@ Concepts to learn in this project about: 0x0F. Python - Object-relational mappin
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[0-select_states.py]()|0. Get all states|Write a script that lists all states from the database hbtn_0e_0_usa and especific carhateristics
+[0-select_states.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/0-select_states.py)|0. Get all states|Write a script that lists all states from the database hbtn_0e_0_usa and especific carhateristics
+[1-filter_states.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/1-filter_states.py)|1. Filter states|Write a script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa
 
 
 
