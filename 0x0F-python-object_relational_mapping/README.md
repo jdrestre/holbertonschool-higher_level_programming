@@ -20,7 +20,7 @@ File Name|Task Name|Task Description
 [1-filter_states.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/1-filter_states.py)|1. Filter states|Write a script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa
 [2-my_filter_states.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/2-my_filter_states.py)|2. Filter states by user input|Write a script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.
 [3-my_safe_filter_states.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/3-my_safe_filter_states.py)|3. SQL Injection...|it’s an SQL injection to delete all records of a table…
-
+[4-cities_by_state.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/4-cities_by_state.py|4. Cities by states|Write a script that lists all cities from the database hbtn_0e_4_usa
 
 
 
