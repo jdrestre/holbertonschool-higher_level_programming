@@ -28,6 +28,7 @@ File Name|Task Name|Task Description
 [9-model_state_filter_a.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/9-model_state_filter_a.py)|9. Contains `a`|Write a script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa
 [10-model_state_my_get.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/10-model_state_my_get.py)|10. Get a state|Write a script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa
 [11-model_state_insert.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/11-model_state_insert.py)|11. Add a new state|Write a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
+[12-model_state_update_id_2.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py)|12. Update a state|Write a script that changes the name of a State object from the database hbtn_0e_6_usa
 
 
 
