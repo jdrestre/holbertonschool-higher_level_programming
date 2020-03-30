@@ -23,6 +23,7 @@ File Name|Task Name|Task Description
 [4-cities_by_state.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/4-cities_by_state.py)|4. Cities by states|Write a script that lists all cities from the database hbtn_0e_4_usa
 [5. All cities by state](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/5-filter_cities.py)|5. All cities by state|Write a script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa
 [model_state.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/model_state.py)|6. First state model|Write a python file that contains the class definition of a State and an instance Base = declarative_base()
+[7-model_state_fetch_all.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/7-model_state_fetch_all.py)|7. All states via SQLAlchemy|Write a script that lists all State objects from the database hbtn_0e_6_usa
 
 
 
