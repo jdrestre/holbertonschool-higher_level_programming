@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # script that lists all State objects from the database hbtn_0e_6_usa
+# # Sintax: ./9-model_state_filter_a.py username password database_name
 # Used module sqlalchemy
 
 import sys
