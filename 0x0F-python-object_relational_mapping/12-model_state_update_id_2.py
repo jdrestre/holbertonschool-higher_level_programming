@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # script that lists all State objects from the database hbtn_0e_6_usa
-# # Sintax: ./10-model_state_my_get.py username password database_name
+# # Sintax: ./12-model_state_update_id_2.py username password database_name
 # state_name_to_search
 # Used module sqlalchemy
 
