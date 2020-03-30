@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # script that lists all cities from the database hbtn_0e_4_usa
-# Sintax: ./0-select_states.py username password database_name
+# Sintax: ./4-cities_by_state.py username password database_name
 import sys
 import MySQLdb
 

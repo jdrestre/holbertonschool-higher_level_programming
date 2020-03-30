@@ -21,6 +21,8 @@ File Name|Task Name|Task Description
 [2-my_filter_states.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/2-my_filter_states.py)|2. Filter states by user input|Write a script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.
 [3-my_safe_filter_states.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/3-my_safe_filter_states.py)|3. SQL Injection...|it’s an SQL injection to delete all records of a table…
 [4-cities_by_state.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/4-cities_by_state.py)|4. Cities by states|Write a script that lists all cities from the database hbtn_0e_4_usa
+[5. All cities by state](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/5-filter_cities.py)|5. All cities by state|Write a script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa
+
 
 
 
