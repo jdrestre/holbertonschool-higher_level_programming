@@ -30,6 +30,7 @@ File Name|Task Name|Task Description
 [11-model_state_insert.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/11-model_state_insert.py)|11. Add a new state|Write a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
 [12-model_state_update_id_2.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py)|12. Update a state|Write a script that changes the name of a State object from the database hbtn_0e_6_usa
 [13-model_state_delete_a.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/13-model_state_delete_a.py)|13. Delete states|Write a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa
+[model_city.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/model_city.py), [14-model_city_fetch_by_state.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py)|14. Cities in state|Write a Python file similar to model_state.py named model_city.py that contains the class definition of a City
 
 
 
