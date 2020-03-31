@@ -4,7 +4,7 @@
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
-from relationship_city.py Base, City
+from relationship_city import Base, City
 
 
 class State(Base):
@@ -13,4 +13,4 @@ class State(Base):
     id = Column(Integer, primary_key=True)
     name = Column(String(128), nullable=False)
 
-    cities = relatinship("City", backref="state", cascade="all, delete")
+    cities = relationship("City", backref="state", cascade="all, delete")
