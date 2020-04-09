@@ -28,6 +28,7 @@ Repository to study the following Topic: Network concepts about URL, HTTP, HTTP 
 ---
 File Name|Task Name|Task Description
 ---|---|---
+[0-body_size.sh](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x10-python-network_0/0-body_size.sh)|0. cURL body size|Write a Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response
 
 
 
