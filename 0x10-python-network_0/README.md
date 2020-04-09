@@ -19,6 +19,8 @@ File Name|Task Name|Task Description
 [3-methods.sh](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x10-python-network_0/3-methods.sh)|3. cURL only methods|Write a Bash script that takes in a URL and displays all HTTP methods the server will accept.
 [4-header.sh](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x10-python-network_0/4-header.sh)|4. cURL headers|Write a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response
 [5-post_params.sh](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x10-python-network_0/5-post_params.sh)|5-post_params.sh|Write a Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response
+[6-peak.py](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x10-python-network_0/6-peak.py), [6-peak.txt](https://github.com/jdrestre/holbertonschool-higher_level_programming/tree/master/0x10-python-network_0/6-peak.txt)|6. Find a peak|Write a function that finds a peak in a list of unsorted integers.
+
 
 
 
