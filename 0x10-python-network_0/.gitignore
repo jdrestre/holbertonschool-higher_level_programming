@@ -1,0 +1,8 @@
+clean_emacs
+*~
+ch764
+6-main.py
+__pycache__
+my_json_0
+my_json_1
+my_json_2
