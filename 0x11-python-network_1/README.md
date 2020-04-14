@@ -20,7 +20,7 @@ Repository to study the following Topic: How to work with urllib package in Pyth
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[`0-hbtn_status.py`](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/0-hbtn_status.py)|0. What's my status? #0|Write a Python script that fetches ```https://intranet.hbtn.io/status```
+[`0-hbtn_status.py`](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/0-hbtn_status.py)|0. What's my status? #0|Write a Python script that fetches [```https://intranet.hbtn.io/status```](https://intranet.hbtn.io/status)
 
 ---
 ## Author
