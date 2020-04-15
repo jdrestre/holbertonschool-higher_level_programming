@@ -8,11 +8,11 @@ Repository to study the following Topic: How to work with urllib package in Pyth
 
 ## General
 
-- How to fetch internet resources with the Python package urllib
-- How to decode urllib body response
-- How to use the Python package requests #requestsiswaysimplerthanurllib
-- How to make ```diff - HTTP``` GET request
-- How to make HTTP POST/PUT/etc. request
+- How to fetch internet resources with the Python package `urllib`
+- How to decode `urllib` body response
+- How to use the Python package `requests` #requestsiswaysimplerthanurllib
+- How to make HTTP `GET` request
+- How to make HTTP `POST`/`PUT`/etc. request
 - How to fetch JSON resources
 - How to manipulate data from an external service
 
@@ -30,32 +30,3 @@ File Name|Task Name|Task Description
 ---
 ![N|Solid](https://www.holbertonschool.com/holberton-logo.png) ![N|Solid](https://intranet.hbtn.io/assets/holberton-logo-coral-27055cb2f875eb10bf3b3942e52a24581bc0667695bdc856d4f08b469b678000.png)
 ---
-
-
-```json
-   // #f03c15
-```
-```html
-   // #c5f015
-```
-```js
-   // #1589F0
-```
-```css
-   // #f03c15
-```
-
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-
-<span style="color: green"> Some green text </span>
-
-<font color="green"> Some green text </font>
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
