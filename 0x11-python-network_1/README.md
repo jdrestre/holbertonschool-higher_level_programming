@@ -9,7 +9,7 @@ Repository to study the following Topic: How to work with urllib package in Pyth
 ## General
 
 - How to fetch internet resources with the Python package `urllib`
-- How to decode `urllib` body response
+- How to decode <font color="red">`urllib`</font> body response
 - How to use the Python package `requests` #requestsiswaysimplerthanurllib
 - How to make HTTP `GET` request
 - How to make HTTP `POST`/`PUT`/etc. request
