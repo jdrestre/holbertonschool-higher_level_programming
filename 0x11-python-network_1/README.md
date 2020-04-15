@@ -1,13 +1,7 @@
 ---
-# 0x11. Python - Network #1
+<h1 align="center">0x11. Python - Network #1</h1>
 
 ---
-
-**(Table of Contents)**
-
-[TOCM]
-
-[TOC]
 
 ## Description
 Repository to study the following Topic: How to work with urllib package in Python and maniputate data with external service
