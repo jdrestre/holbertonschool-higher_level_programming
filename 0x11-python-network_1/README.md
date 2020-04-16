@@ -30,6 +30,7 @@ File Name|Task Name|Task Description
 [**`6-post_email.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/6-post_email.py)|6. POST an email #1|Write a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
 [**`7-error_code.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/7-error_code.py)|7. Error code #1|Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response.
 [**`8-json_api.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/8-json_api.py)|8. Search API|Write a Python script that takes in a letter and sends a POST request to <http://0.0.0.0:5000/search_user> with the letter as a parameter.
+[**`10-my_github.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/10-my_github.py)|9. My Github!|Write a Python script that takes your Github credentials (username and password) and uses the Github API to display your id
 
 ---
 
