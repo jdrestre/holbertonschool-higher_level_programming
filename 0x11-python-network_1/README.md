@@ -26,6 +26,7 @@ File Name|Task Name|Task Description
 [**`2-post_email.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/2-post_email.py)|2. POST an email #0|Write a Python script that takes in a URL and an email, sends a POST request to the passed URL with the email as a parameter, and displays the body of the response (decoded in utf-8)
 [**`3-error_code.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/3-error_code.py)|3. Error code #0|Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8).
 [**`4-hbtn_status.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/4-hbtn_status.py)|4. What's my status? #1|Write a Python script that fetches <https://intranet.hbtn.io/status>
+[**`5-hbtn_header.py`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x11-python-network_1/5-hbtn_header.py)|5. Response header value #1|Write a Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header
 
 ---
 
