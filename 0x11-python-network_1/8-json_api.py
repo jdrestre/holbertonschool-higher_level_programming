@@ -18,10 +18,10 @@ if __name__ == "__main__":
         letter = sys.argv[1]
     r = requests.post(url, data={'q': letter})
     try:
-        instance = r.json()
-        if len(instance) == 0:
+        response = r.json()
+        if len(response) == 0:
             print('No result')
         else:
-            print('[{}] {}'.format(instance.get('id'), instance.get('name')))
+            print('[{}] {}'.format(response.get('id'), response.get('name')))
     except ValueError:
         print('Not a valid JSON')
