@@ -7,8 +7,8 @@
 ---
 Repository to study the following Topic: Javascript is used for many things. At Holberton School, you will use Javascript for 2 reasons:
 
-1 - Scripting (same as we did with Python)
-2 - Web front-end
+1. Scripting (same as we did with Python)
+2. Web front-end
 
 ### General
 
@@ -35,6 +35,7 @@ Repository to study the following Topic: Javascript is used for many things. At 
 File Name|Task Name|Task Description
 ---|---|---
 [**`0-javascript_is_amazing.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/0-javascript_is_amazing.js)|**0. First constant, first print**|Write a script that prints “Javascript is amazing” without `var`
+[**`1-multi_languages.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/1-multi_languages.js)|**1. 3 languages**|Write a script that prints 3 lines
 
 ## Author
 
