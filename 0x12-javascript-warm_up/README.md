@@ -41,6 +41,7 @@ File Name|Task Name|Task Description
 [**`4-concat.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/4-concat.js)|**4. Create a sentence**|Write a script that prints two arguments passed to it, in the following format: “ is ”
 [**`5-to_integer.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/5-to_integer.js)|**5. An Integer**|Write a script that prints **`My number`: `<first argument converted in integer>`** if the first argument can be converted to an integer
 [**`6-multi_languages_loop.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/6-multi_languages_loop.js)|**6. Loop to languages**|Write a script that prints 3 lines: (like 1-multi_languages.js) but by using an array of string and a loop
+[**`7-multi_c.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/7-multi_c.js)|**7. I love C**|Write a script that prints `x` times “C is fun”
 
 ## Author
 
