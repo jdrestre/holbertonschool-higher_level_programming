@@ -45,6 +45,7 @@ File Name|Task Name|Task Description
 [**`8-square.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/8-square.js)|**8. Square**|Write a script that prints a square
 [**`9-add.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)|**9. Add**|Write a script that prints the addition of 2 integers
 [**`10-factorial.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/10-factorial.js)|**10. Factorial**|Write a script that computes and prints a factorial
+[**`11-second_biggest.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/11-second_biggest.js)|**11. Second biggest!**|Write a script that searches the second biggest integer in the list of arguments.
 
 ## Author
 
