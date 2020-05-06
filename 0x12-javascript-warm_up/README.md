@@ -43,7 +43,8 @@ File Name|Task Name|Task Description
 [**`6-multi_languages_loop.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/6-multi_languages_loop.js)|**6. Loop to languages**|Write a script that prints 3 lines: (like 1-multi_languages.js) but by using an array of string and a loop
 [**`7-multi_c.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/7-multi_c.js)|**7. I love C**|Write a script that prints `x` times “C is fun”
 [**`8-square.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/8-square.js)|**8. Square**|Write a script that prints a square
-9-add.js[**`9-add.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)|**9. Add**|Write a script that prints the addition of 2 integers
+[**`9-add.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)|**9. Add**|Write a script that prints the addition of 2 integers
+[**`10-factorial.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/10-factorial.js)|**10. Factorial**|Write a script that computes and prints a factorial
 
 ## Author
 
