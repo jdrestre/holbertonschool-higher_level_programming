@@ -38,6 +38,7 @@ File Name|Task Name|Task Description
 [**`1-multi_languages.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/1-multi_languages.js)|**1. 3 languages**|Write a script that prints 3 lines
 [**`2-arguments.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/2-arguments.js)|**2. Arguments**|Write a script that prints a message depending of the number of arguments passed
 [**`3-value_argument.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/3-value_argument.js)|**3. Value of my argument**|Write a script that prints the first argument passed to it
+[**`4-concat.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/4-concat.js)|**4. Create a sentence**|Write a script that prints two arguments passed to it, in the following format: “ is ”
 
 ## Author
 
