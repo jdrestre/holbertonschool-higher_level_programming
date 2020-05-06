@@ -47,6 +47,7 @@ File Name|Task Name|Task Description
 [**`10-factorial.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/10-factorial.js)|**10. Factorial**|Write a script that computes and prints a factorial
 [**`11-second_biggest.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/11-second_biggest.js)|**11. Second biggest!**|Write a script that searches the second biggest integer in the list of arguments.
 [**`12-object.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/12-object.js)|**12. Object**|Update this script to replace the value 12 with 89
+[**`13-add.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x12-javascript-warm_up/13-add.js)|**13. Add file**|Write a function that returns the addition of 2 integers.
 
 ## Author
 
