@@ -22,7 +22,8 @@ Repository to study the following Topic: Objects, Scopes and Closures
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[**`0-rectangle.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/0-rectangle.js)|**Title Task**|Description Task
+[**`0-rectangle.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/0-rectangle.js)|**0. Rectangle #0**|Write an empty class Rectangle that defines a rectangle
+[**`1-rectangle.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/1-rectangle.js)|**1. Rectangle #1**|Write a class Rectangle that defines a rectangle
 
 ## Author
 
