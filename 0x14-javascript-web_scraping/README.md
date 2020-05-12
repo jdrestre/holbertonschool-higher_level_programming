@@ -18,7 +18,8 @@ Repository to study the following Topic: Web scraping with Javascript
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[**`0-readme.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/0-readme.js)|**0. Readme **|Write a script that reads and prints the content of a file.
+[**`0-readme.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/0-readme.js)|**0. Readme**|Write a script that reads and prints the content of a file.
+[**`1-writeme.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/1-writeme.js)|**2. Status code**|Write a script that display the status code of a GET request.
 
 ## Author
 
