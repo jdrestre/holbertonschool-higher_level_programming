@@ -26,6 +26,7 @@ File Name|Task Name|Task Description
 [**`1-rectangle.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/1-rectangle.js)|**1. Rectangle #1**|Write a class Rectangle that defines a rectangle
 [**`2-rectangle.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/2-rectangle.js)|**2. Rectangle #2**|Write a class Rectangle that defines a rectangle
 [**`3-rectangle.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/3-rectangle.js)|**3. Rectangle #3**|Write a class Rectangle that defines a rectangle
+[**`4-rectangle.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x13-javascript_objects_scopes_closures/4-rectangle.js)|**4. Rectangle #4**|Write a class Rectangle that defines a rectangle
 
 ## Author
 
