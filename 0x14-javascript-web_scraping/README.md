@@ -22,6 +22,7 @@ File Name|Task Name|Task Description|Usage or Output
 [**`1-writeme.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/1-writeme.js)|**1. Write me**|Write a script that writes a string to a file.|Usage: `./1-writeme.js <file path> <string to write>.`
 [**`2-statuscode.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/2-statuscode.js)|**2. Status code**|Write a script that display the status code of a GET request.|Output: `code: <status code>`.
 [**`3-starwars_title.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/3-starwars_title.js)|**3. Star wars movie title**|Write a script that prints the title of a Star Wars movie where the episode number matches a given integer.|Usage: `./3-starwars_title.js <integer title number>`.
+[**`4-starwars_count.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/4-starwars_count.js)|**4. Star wars Wedge Antilles**|Write a script that prints the title of a Star Wars movie where the episode number matches a given integer.|Usage: `./4-starwars_count.js https://swapi-api.hbtn.io/api/films`.
 
 ## Author
 
