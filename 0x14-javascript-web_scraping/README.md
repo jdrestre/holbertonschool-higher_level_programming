@@ -24,6 +24,7 @@ File Name|Task Name|Task Description|Usage or Output
 [**`3-starwars_title.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/3-starwars_title.js)|**3. Star wars movie title**|Write a script that prints the title of a Star Wars movie where the episode number matches a given integer.|Usage: `./3-starwars_title.js <integer title number>`.
 [**`4-starwars_count.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/4-starwars_count.js)|**4. Star wars Wedge Antilles**|Write a script that prints the title of a Star Wars movie where the episode number matches a given integer.|Usage: `./4-starwars_count.js https://swapi-api.hbtn.io/api/films`.
 [**`5-request_store.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/5-request_store.js)|**5. Loripsum**|Write a script that gets the contents of a webpage and stores it in a file.|Usage: `./5-request_store.js http://loripsum.net/api <file_name>`.
+[**`6-completed_tasks.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x14-javascript-web_scraping/6-completed_tasks.js)|**6. How many completed?**|Write a script that computes the number of tasks completed by user id.|Usage: `./6-completed_tasks.js https://jsonplaceholder.typicode.com/todos`.
 
 ## Author
 
