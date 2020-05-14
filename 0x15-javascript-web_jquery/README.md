@@ -25,7 +25,8 @@ Repository to study the following Topic: Web JQuery
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[**`0-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/)|**0. No jQuery**|Write a Javascript script that updates the text color of the HTML tag HEADER to red (#FF0000)
+[**`0-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/0-script.js)|**0. No jQuery**|Write a Javascript script that updates the text color of the HTML tag HEADER to red (`#FF0000`)
+[**`1-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/1-script.js)|**1. With jQuery**|Write a Javascript script that updates the text color of the HTML tag HEADER to red (`#FF0000`): You can’t use document.querySelector to select the HTML tag
 
 ## Author
 
