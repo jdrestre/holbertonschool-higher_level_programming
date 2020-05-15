@@ -32,6 +32,7 @@ File Name|Task Name|Task Description
 [**`4-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/4-script.js)|**4. Toggle classes**|Write a Javascript script that toggles the class of the HTML tag HEADER to red (#FF0000) when the user clicks on the tag DIV#toggle_header: You can’t use document.querySelector to select the HTML tag
 [**`5-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/5-script.js)|**5. List of elements**|Write a Javascript script that adds a LI element to a list when the user clicks on the tag DIV#add_item: You can’t use document.querySelector to select the HTML tag
 [**`6-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/6-script.js)|**6. Change the text**|Write a Javascript script that updates the text of the HTML tag HEADER to “New Header!!!” when the user clicks on DIV#update_header: You can’t use document.querySelector to select the HTML tag
+[**`7-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/7-script.js)|**7. Star wars character**|Write a Javascript script that updates the text of the HTML tag HEADER to “New Header!!!” when the user clicks on DIV#update_header: You can’t use document.querySelector to select the HTML tag
 
 ## Author
 
