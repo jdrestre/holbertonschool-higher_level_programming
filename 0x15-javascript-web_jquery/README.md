@@ -34,6 +34,7 @@ File Name|Task Name|Task Description
 [**`6-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/6-script.js)|**6. Change the text**|Write a Javascript script that updates the text of the HTML tag HEADER to “New Header!!!” when the user clicks on DIV#update_header: You can’t use document.querySelector to select the HTML tag
 [**`7-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/7-script.js)|**7. Star wars character**|Write a Javascript script that fetches and replaces the name of this URL: `https://swapi-api.hbtn.io/api/people/5/?format=json` You can’t use document.querySelector to select the HTML tag
 [**`8-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/8-script.js)|**8. Star Wars movies**|Write a Javascript script that fetches and lists all movies title by using this URL: `https://swapi-api.hbtn.io/api/films/?format=json` You can’t use document.querySelector to select the HTML tag
+[**`9-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/9-script.js)|**9. Say Hello!**|Write a Javascript script that fetches from `https://fourtonfish.com/hellosalut/?lang=fr` and displays the value of hello from that fetch in the HTML’s tag DIV#hello. You can’t use document.querySelector to select the HTML tag
 
 ## Author
 
