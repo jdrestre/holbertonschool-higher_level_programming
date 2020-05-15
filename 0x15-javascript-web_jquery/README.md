@@ -28,6 +28,7 @@ File Name|Task Name|Task Description
 [**`0-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/0-script.js)|**0. No jQuery**|Write a Javascript script that updates the text color of the HTML tag HEADER to red (`#FF0000`)
 [**`1-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/1-script.js)|**1. With jQuery**|Write a Javascript script that updates the text color of the HTML tag HEADER to red (`#FF0000`): You can’t use document.querySelector to select the HTML tag
 [**`2-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/2-script.js)|**2. Click and turn red**|Write a Javascript script that updates the text color of the HTML tag HEADER to red (#FF0000) when the user clicks on the tag DIV#red_header: You can’t use document.querySelector to select the HTML tag
+[**`3-script.js`**](https://github.com/jdrestre/holbertonschool-higher_level_programming/blob/master/0x15-javascript-web_jquery/3-script.js)|**3. Add `.red` class**|Write a Javascript script that adds the class red to the HTML tag HEADER to red (#FF0000) when the user clicks on the tag DIV#red_header: You can’t use document.querySelector to select the HTML tag
 
 ## Author
 
